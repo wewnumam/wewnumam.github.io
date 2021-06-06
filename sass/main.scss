@@ -1,0 +1,147 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+@mixin title {
+    font-size: 6em;
+    font-weight: 300;
+}
+
+@mixin flex($v: center, $h: center) {
+    display: flex;
+    align-items: $v;
+    justify-content: $h;
+}
+
+
+.fw-700 {
+    font-weight: 700;
+}
+
+.jumbotron {
+    .title {
+        @include title()
+    }
+
+    .subtitle {
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .is-6:nth-child(2) {
+        @include flex
+    }
+
+    img {
+        width: 25%;
+    }
+}
+
+.about {
+    .about-img {
+        @include flex
+    }
+    
+    img {
+        width: 15%;
+    }
+
+    .about-body {
+        flex-direction: column;
+        @include flex
+    }
+
+    .box {
+        box-shadow: 0;
+        border: 0;
+        border-radius: 0;
+        color: #fff;
+        font-family: 'Poppins', sans-serif;
+        line-height: 1.5;
+    }
+}
+
+.work {
+    .work-title {
+        @include flex(center, flex-start)
+    }
+
+    .gallery {
+        @include flex(center, flex-end);
+    }
+
+    .title {
+        @include title();
+        color: #fff;
+    }
+
+    .box {
+        width: 15rem;
+        height: 15rem;
+        margin: 20px;
+    }
+
+    background-color: #363636;
+    color: #fff;
+}
+
+.contact {
+    .contact-title {
+        @include flex(center, flex-end)
+    }
+
+    .contact-info {
+        @include flex(center, flex-start)
+    }
+
+    .title {
+        @include title()
+    }
+}
+
+footer {
+    .container {
+        @include flex(center, space-evenly)
+    }
+
+    i {
+        font-size: 3em;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .jumbotron {
+        .title {
+            text-align: center;
+            font-size: 3em;
+        }
+    
+        img {
+            width: 50%;
+        }
+        
+        .subtitle {
+            display: none;
+        }
+    }
+
+    
+    .about {
+        img {
+            width: 25%;
+        }
+    }
+    
+    .contact {
+        .contact-title {
+            @include flex(center, center)
+        }
+    
+        .contact-info {
+            @include flex(center, center)
+        }
+    
+        .title {
+            @include title()
+        }
+    }
+}

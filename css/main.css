@@ -1,0 +1,203 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.jumbotron .title {
+  font-size: 6em;
+  font-weight: 300;
+}
+
+.jumbotron .subtitle {
+  font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron .is-6:nth-child(2) {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.jumbotron img {
+  width: 25%;
+}
+
+.about .about-img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.about img {
+  width: 15%;
+}
+
+.about .about-body {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.about .box {
+  -webkit-box-shadow: 0;
+          box-shadow: 0;
+  border: 0;
+  border-radius: 0;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.5;
+}
+
+.work {
+  background-color: #363636;
+  color: #fff;
+}
+
+.work .work-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.work .gallery {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.work .title {
+  font-size: 6em;
+  font-weight: 300;
+  color: #fff;
+}
+
+.work .box {
+  width: 15rem;
+  height: 15rem;
+  margin: 20px;
+}
+
+.contact .contact-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.contact .contact-info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.contact .title {
+  font-size: 6em;
+  font-weight: 300;
+}
+
+footer .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+footer i {
+  font-size: 3em;
+}
+
+@media screen and (max-width: 600px) {
+  .jumbotron .title {
+    text-align: center;
+    font-size: 3em;
+  }
+  .jumbotron img {
+    width: 50%;
+  }
+  .jumbotron .subtitle {
+    display: none;
+  }
+  .about img {
+    width: 25%;
+  }
+  .contact .contact-title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .contact .contact-info {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .contact .title {
+    font-size: 6em;
+    font-weight: 300;
+  }
+}
+/*# sourceMappingURL=main.css.map */
