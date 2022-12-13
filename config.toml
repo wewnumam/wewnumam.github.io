@@ -2,3 +2,17 @@ baseURL = 'https://wewnumam.github.io/'
 languageCode = 'en-us'
 title = 'Ahmad Adillaumam'
 theme = 'ananke'
+
+[menu]
+[[menu.main]]
+  identifier = 'posts'
+  name = 'Posts'
+  pre = "<i class='fa fa-newspaper'></i>"
+  url = '/posts/'
+  weight = -110
+[[menu.main]]
+  identifier = 'about'
+  name = 'About Me'
+  pre = "<i class='fa fa-circle-question'></i>"
+  url = '/about/'
+  weight = -100
