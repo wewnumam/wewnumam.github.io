@@ -1,0 +1,4 @@
+baseURL = 'https://wewnumam.github.io/'
+languageCode = 'en-us'
+title = 'Ahmad Adillaumam'
+theme = 'ananke'
