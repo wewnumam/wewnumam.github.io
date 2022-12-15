@@ -1,5 +1,5 @@
 ---
-title: "10 Hal Yang WAJIB Ada Dalam Rancangan Game Kalian!"
+title: "Syarat Dasar Sebuah Game"
 date: 2022-12-14T23:59:06+07:00
 draft: false
 ---
@@ -8,7 +8,7 @@ Kenapa sebuah game bisa dikatakan game?
 
 Jawabannya adalah karena game memenuhi kunci-kunci kualitas sebuah game. 
 
-Setidaknya, terdapat 10 kunci kualitas penting dalam sebuah permainan, menurut Jesse Schell dalam bukunya The Art of Game Design.
+Setidaknya, terdapat 10 kunci kualitas penting dalam sebuah permainan, menurut Jesse Schell dalam bukunya *The Art of Game Design*.
 
 1. ****Game dimainkan secara sukarela (*volunteer*)****
     
@@ -56,19 +56,24 @@ Setidaknya, terdapat 10 kunci kualitas penting dalam sebuah permainan, menurut J
     
     Sebuah game secara mental harus mampu memicu keketerlibatan pemain untuk bermain. 
     
-    Motivasi datang dari banyak aspek dalam game tapi setidaknya ada dua aspek penting yang menciptakan motivasi pemain. Pertama, pemain didorong oleh keingintahuan (curiosity). Kemudian diikuti dengan keinginan pemain untuk menunjukkan dan meningkatkan kemampuan (skill). 
+    Motivasi datang dari banyak aspek dalam game tapi setidaknya ada dua aspek penting yang menciptakan motivasi pemain. Pertama, pemain didorong oleh keingintahuan (*curiosity*). Kemudian diikuti dengan keinginan pemain untuk menunjukkan dan meningkatkan kemampuan (*skill*). 
     
     Motivasi dari aspek lain dapat dianalisis berdasarkan demografi dan psikografi pemain.
 
 1. **Game adalah sistem formal dan tertutup (*constraint*)**
     
-    Sederhanya, game perlu memiliki batasan dan definisi yang jelas agar sebuah game memiliki nilai dan bentuk yang dapat dipahami. Ini ditujukan untuk mengatur keseimbangan dalam game dan menjaga rasa (feel) dalam permainan. 
+    Sederhanya, game perlu memiliki batasan dan definisi yang jelas agar sebuah game memiliki nilai dan bentuk yang dapat dipahami. Ini ditujukan untuk mengatur keseimbangan dalam game dan menjaga rasa (*feel*) dalam permainan. 
     
     Informasi seperti simbol, tanda, peta, pesan, feedback, dan model konseptual lainnya menekankan batasan yang membantu menjaga keseimbangan dan bentuk permainan. 
     
-    Prinsip paling umum yang dipakai dalam konteks bentuk dan keseimbangan adalah membuat game yang easy to learn but difficult to master (mudah dipelajari namun sulit dikuasai).
+    Prinsip paling umum yang dipakai dalam konteks bentuk dan keseimbangan adalah membuat game yang *easy to learn but difficult to master* (mudah dipelajari namun sulit dikuasai).
 
-Setidaknya 10 kunci kualitas di atas wajib dimiliki agar sebuah game memiliki rasa (feel) permainan. Dengan mengeksplorasi dan bereksperimen dengan kunci-kunci kualitas yang telah disebutkan, terciptalah inovasi-inovasi desain game yang beragam.
+Kunci-kunci kualitas di atas mendefinisikan arti dari sebuah game. 
+
+Gunakanlah kunci-kunci kualitas tersebut sebagai bahan pertimbangan dalam mendesain game dan sebagai checklist untuk playtesting.
+
+> ## Kesimpulan
+> Game merupakan pengalaman sukarela yang mengandung setidaknya elemen: tujuan, interaksi, hambatan, dan aturan.
 
 **Sumber**:
 

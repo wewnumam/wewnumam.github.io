@@ -5,10 +5,10 @@ theme = 'ananke'
 
 [menu]
 [[menu.main]]
-  identifier = 'posts'
-  name = 'Posts'
-  pre = "<i class='fa fa-newspaper'></i>"
-  url = '/posts/'
+  identifier = 'game-design'
+  name = 'Game Design'
+  pre = "<i class='fa fa-brain'></i>"
+  url = '/game-design/'
   weight = -110
 [[menu.main]]
   identifier = 'about'
