@@ -4,13 +4,13 @@ date: 2022-12-14T04:40:53+07:00
 draft: false
 ---
 
-I love phylosophy.
+📚 I love phylosophy.
 
-I'm presistent in programming.
+🧑‍💻 I'm presistent in programming.
 
-I'm create value from content and design. 
+🏷 I create value from content and design. 
 
-People come to me for tech support.
+💻 People come to me for tech support.
 
 ...
 

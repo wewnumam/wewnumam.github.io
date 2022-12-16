@@ -5,14 +5,23 @@ theme = 'ananke'
 
 [menu]
 [[menu.main]]
+  identifier = 'articles'
+  name = '📄 Articles'
+  url = '/articles/'
+  weight = -115
+[[menu.main]]
   identifier = 'game-design'
-  name = 'Game Design'
-  pre = "<i class='fa fa-brain'></i>"
+  name = '🎮 Game Design'
   url = '/game-design/'
   weight = -110
 [[menu.main]]
+  identifier = 'programming'
+  name = '💻 Programming'
+  url = '/programming/'
+  weight = -105
+[[menu.main]]
   identifier = 'about'
-  name = 'About Me'
+  name = '❓ About Me'
   pre = "<i class='fa fa-circle-question'></i>"
   url = '/about/'
   weight = -100
