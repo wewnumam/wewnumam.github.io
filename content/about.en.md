@@ -6,7 +6,7 @@ draft: false
 
 📚 I love phylosophy.
 
-🧑‍💻 I'm presistent in programming.
+🧑‍💻 I'm presistent in software development.
 
 🏷 I create value from content and design. 
 
