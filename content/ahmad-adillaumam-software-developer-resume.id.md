@@ -39,7 +39,7 @@ draft: false
     > - Melakukan kustomisasi Wordpress themes menggunakan CSS.
     > - Membangun sistem pemungutan suara menggunakan Laravel.
     >
-    > Video rekam layar proses lomba di [sini](https://www.youtube.com/watch?v=xQ-B3tiuptg).
+    > Video rekam layar proses lomba di [sini](https://youtu.be/xQ-B3tiuptg).
 
 - ### [LKS Web Design Kota Surakarta](https://smkn2solo.sch.id/selamat-kepada-bapak-ibu-guru-pembimbing-jurusan-tkro-rpl-dan-tflm-yang-siswa-siswanya-menjadi-juara-dalam-lomba-lks-tingkat-kota-solo-th-2020/)
 
@@ -58,10 +58,10 @@ draft: false
     *🗓️ 2021 - SEKARANG*
 
     > - HIMA Gametech Divisi Research & Development:
-    >   - [Membangun landing page website organisasi](http://dtp.epizy.com).
-    >   - [Menyusun roadmap dan sumber belajar game developer](https://github.com/wewnumam/gtstmm-gamedev-roadmap).
+    >   - Membangun [landing page website organisasi](http://dtp.epizy.com).
+    >   - Menyusun [roadmap dan sumber belajar game developer](https://github.com/wewnumam/gtstmm-gamedev-roadmap).
     > - Membangun project studi kasus:
-    >   - [Kumpulan project game](https://github.com/wewnumam/pemrograman-game).
+    >   - [Kumpulan project game kuliah](https://github.com/wewnumam/pemrograman-game).
     >   - [Sistem pemungutan suara](https://github.com/wewnumam/pemungutan-suara).
 
 - ### SMKN 2 Surakarta (*Rekayasa Perangkat Lunak*)

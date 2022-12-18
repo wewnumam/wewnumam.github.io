@@ -27,8 +27,8 @@ draft: false
     > - Mendesain [poster, cover buku, desain packaging, dan social media kit](https://drive.google.com/drive/u/0/folders/12HNioqXGOC_0z7zbgbBa_hKSznKMcFya).
     > - Mengikuti [kontes desain logo di sribu.com](https://www.sribu.com/en/members/wvwnumam).
     > - Tools yang dipakai: Inkscape, GIMP.
-    > - Hasil yand di dapat:
-    >   - Orang-orang menyukai desain gaya minimalis saya. Desain minimalis dinilai memberikan kesan elegan dan modern. Pesan yang dimuat dengan gaya minimalis lebih mudah ditangkap oleh audiens.
+    > - Hasil yang di dapat:
+    >   - Orang-orang menyukai desain minimalis yang saya buat. Desain minimalis dinilai memberikan kesan elegan dan modern. Pesan yang dikemas dengan gaya minimalis lebih mudah ditangkap oleh audiens.
 
 
 - ### [Fiverr](https://www.fiverr.com/ahmadadillaumam) - Logo Designer
@@ -39,8 +39,8 @@ draft: false
     > - Melayani perbaikan desain logo sesuai permintaan klien.
     > - Tools yang dipakai: Inkscape.
     > - Selagi projek berjalan, saya memberi saran dan informasi mengenai prinsip-prinsip desain kepada klien, agar desain yang dipakai dapat menyesuaikan kebutuhan dan tujuan pemakaiannya.
-    > - Hasil yand di dapat:
-    >   - Saya mendapatkan feedback positif dan ulasan bitang 5 dari seluruh klien.
+    > - Hasil yang di dapat:
+    >   - Saya mendapatkan feedback positif dan ulasan bintang 5 dari seluruh klien.
 
 ---
 
