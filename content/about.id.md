@@ -1,14 +1,15 @@
 ---
 title: "Tentang Saya"
-date: 2022-12-14T04:40:53+07:00
 draft: false
+---
+
 ---
 
 📚 Pecinta filosofi.
 
-🧑‍💻 Memiliki dedikasi dalam pengembangan perangkat lunak.
+🧑‍💻 Memiliki dedikasi dalam [pengembangan perangkat lunak](/id/ahmad-adillaumam-software-developer-resume).
 
-🏷 Berkarya melalui konten dan desain. 
+🏷 Berkarya melalui konten dan [desain](/id/ahmad-adillaumam-designer-resume). 
 
 💻 Orang-orang datang ke saya untuk mendapatkan bantuan terkait teknologi.
 
@@ -18,6 +19,6 @@ Masih mencari tahu irisannya.
 
 ---
 
-Lihat [Linktree](https://linktr.ee/adillaumam) saya untuk mengenal saya lebih lanjut!
+Kunjungi [Linktree](https://linktr.ee/adillaumam) saya untuk mengenal saya lebih lanjut!
 
-Tidak ada kutipan glorifikasi. Sadari saja apa yang kita ~~inginkan~~ butuhkan. ✌️
+Stop kutipan glorifikasi. Sadari saja apa yang kita ~~inginkan~~ butuhkan. ✌️

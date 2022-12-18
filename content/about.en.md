@@ -1,14 +1,15 @@
 ---
 title: "About Me"
-date: 2022-12-14T04:40:53+07:00
 draft: false
+---
+
 ---
 
 📚 I love phylosophy.
 
-🧑‍💻 I'm presistent in software development.
+🧑‍💻 I'm presistent in [software development](/ahmad-adillaumam-software-developer-resume).
 
-🏷 I create value from content and design. 
+🏷 I create value from content and [design](/ahmad-adillaumam-designer-resume). 
 
 💻 People come to me for tech support.
 
