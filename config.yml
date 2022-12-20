@@ -20,16 +20,20 @@ languages:
     weight: 1
     menu:
       main:
+        - identifier: archives
+          name: Archives
+          url: /archives/
+          weight: 5
         - identifier: tags
-          name: tags
+          name: Tags
           url: /tags/
           weight: 10
         - identifier: search
-          name: search
+          name: Search
           url: /search/
           weight: 15
         - identifier: about
-          name: about me
+          name: About Me
           url: /about/
           weight: 20
   id:
@@ -38,16 +42,20 @@ languages:
     weight: 2
     menu:
       main:
+        - identifier: archives
+          name: Arsip
+          url: /archives/
+          weight: 5
         - identifier: tags
-          name: tags
+          name: Tags
           url: /tags/
           weight: 10
         - identifier: search
-          name: telusuri
+          name: Telusuri
           url: /search/
           weight: 15
         - identifier: about
-          name: tentang saya
+          name: Tentang Saya
           url: /about/
           weight: 20
     params:
@@ -135,6 +143,8 @@ params:
       url: https://linktr.ee/adillaumam
     - name: github
       url: https://github.com/wewnumam
+    - name: itchio
+      url: https://wewnumam.itch.io
     - name: linkedin
       url: https://www.linkedin.com/in/ahmadadillaumam
     - name: twitter
