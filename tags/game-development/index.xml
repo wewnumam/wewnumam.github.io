@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Game Development on Ahmad Adillaumam</title>
+    <link>https://wewnumam.github.io/tags/game-development/</link>
+    <description>Recent content in Game Development on Ahmad Adillaumam</description>
+    <image>
+      <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
+      <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Dec 2022 08:35:19 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/tags/game-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Design Document Format for Academic Purposes</title>
+      <link>https://wewnumam.github.io/articles/game-design-document-format-for-academic-purposes/</link>
+      <pubDate>Mon, 19 Dec 2022 08:35:19 +0700</pubDate>
+      
+      <guid>https://wewnumam.github.io/articles/game-design-document-format-for-academic-purposes/</guid>
+      <description>Opening Page The cover page contains information including:
+Title. The title in the form of the words &amp;ldquo;Game Design Document&amp;rdquo; is needed to name the document so that at a glance people can imply what is meant in the document. Game Title. In the form of an attachment to the game name either in the form of a logo or any form that can be read. Genre and Game Mode. Contains information about the genre and game mode—such as online or offline mode, and single-player or multi-player mode—that will be used.</description>
+    </item>
+    
+    <item>
+      <title>The Basic Requirements of a Game</title>
+      <link>https://wewnumam.github.io/articles/10-key-quality-of-games/</link>
+      <pubDate>Wed, 14 Dec 2022 23:59:06 +0700</pubDate>
+      
+      <guid>https://wewnumam.github.io/articles/10-key-quality-of-games/</guid>
+      <description>Why is a game said to be a game?
+The answer is because it fulfills the key qualities of a game.
+There are at least 10 important quality keys in a game, according to Jesse Schell in his book The Art of Game Design.
+Games are played voluntarily (volunteer) There is no compulsion in playing a game. This means that the player has the control to freely join the game and leave the game.</description>
+    </item>
+    
+  </channel>
+</rss>

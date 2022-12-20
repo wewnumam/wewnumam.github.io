@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Game Development on Ahmad Adillaumam</title>
+    <link>https://wewnumam.github.io/id/tags/game-development/</link>
+    <description>Recent content in Game Development on Ahmad Adillaumam</description>
+    <image>
+      <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
+      <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Dec 2022 08:35:24 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/id/tags/game-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Format Game Design Document untuk Keperluan Akademik</title>
+      <link>https://wewnumam.github.io/id/articles/game-design-document-format-for-academic-purposes/</link>
+      <pubDate>Mon, 19 Dec 2022 08:35:24 +0700</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/articles/game-design-document-format-for-academic-purposes/</guid>
+      <description>Halaman Pembuka Pada cover halaman berisi informasi diantaranya:
+Judul. Judul berupa tulisan “Game Design Document” diperlukan untuk memberi nama dokumen sehingga secara sekilas orang dapat menyiratkan apa yang dimaksud dalam dokumen tersebut. Judul Game. Berupa lampiran nama game baik dalam bentuk logo atau bentuk apapun yang dapat dibaca. Genre dan Mode Permainan. Berisi keterangan mengenai genre dan mode permainan—seperti mode online atau offline, dan mode single-player atau multi-player—yang akan dipakai. Pemangku Kepentingan.</description>
+    </item>
+    
+    <item>
+      <title>Syarat Dasar Sebuah Game</title>
+      <link>https://wewnumam.github.io/id/articles/10-key-quality-of-games/</link>
+      <pubDate>Wed, 14 Dec 2022 23:59:06 +0700</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/articles/10-key-quality-of-games/</guid>
+      <description>Kenapa sebuah game bisa dikatakan game?
+Jawabannya adalah karena game memenuhi kunci-kunci kualitas sebuah game.
+Setidaknya, terdapat 10 kunci kualitas penting dalam sebuah permainan, menurut Jesse Schell dalam bukunya The Art of Game Design.
+Game dimainkan secara sukarela (volunteer) Tidak ada paksaan dalam bermain game. Artinya, pemain memiliki kendali untuk bebas mengikuti permainan dan keluar dari permainan.
+Game memiliki tujuan (goals) Sebuah game harus memiliki misi yang ditawarkan kepada pemain. Misi ini ditujukan untuk memberikan pemain tujuan bermain.</description>
+    </item>
+    
+  </channel>
+</rss>
