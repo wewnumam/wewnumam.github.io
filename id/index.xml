@@ -1,18 +1,95 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ahmad Adillaumam</title><link>https://wewnumam.github.io/id/</link><description>Recent content on Ahmad Adillaumam</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Dec 2022 10:38:46 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/id/index.xml" rel="self" type="application/rss+xml"/><item><title>12 Cara Mudah untuk Membuat Video Menjadi Lebih Baik Secara Signifikan</title><link>https://wewnumam.github.io/id/articles/12-easy-ways-to-make-videos-significantly-better/</link><pubDate>Tue, 20 Dec 2022 10:38:46 +0700</pubDate><guid>https://wewnumam.github.io/id/articles/12-easy-ways-to-make-videos-significantly-better/</guid><description>Pikirkanlah Setiap Potongan Gambar Saat menonton video, kita hanya bisa melihat ke arah kamera membidik. Kalau kamera melihat hal yang sama terlalu lama atau tidak melihat sesuatu yang ingin penonton lihat, penonton akan bosan.
-Pertandingan olahraga di TV biasa diliput dengan belasan hingga puluhan kamera yang berbeda—setiap beberapa detik pindah ke gambar yang berbeda. Dan setiap gambar berfokus pada informasi yang baru. Setiap gambar memiliki arti, dan pemotongan antar gambar tersebut memberikan banyak informasi tanpa membuat penonton bosan.</description></item><item><title>Format Game Design Document untuk Keperluan Akademik</title><link>https://wewnumam.github.io/id/articles/game-design-document-format-for-academic-purposes/</link><pubDate>Mon, 19 Dec 2022 08:35:24 +0700</pubDate><guid>https://wewnumam.github.io/id/articles/game-design-document-format-for-academic-purposes/</guid><description>Halaman Pembuka Pada cover halaman berisi informasi diantaranya:
-Judul. Judul berupa tulisan “Game Design Document” diperlukan untuk memberi nama dokumen sehingga secara sekilas orang dapat menyiratkan apa yang dimaksud dalam dokumen tersebut. Judul Game. Berupa lampiran nama game baik dalam bentuk logo atau bentuk apapun yang dapat dibaca. Genre dan Mode Permainan. Berisi keterangan mengenai genre dan mode permainan—seperti mode online atau offline, dan mode single-player atau multi-player—yang akan dipakai. Pemangku Kepentingan.</description></item><item><title>Desain Game</title><link>https://wewnumam.github.io/id/game-design/</link><pubDate>Fri, 16 Dec 2022 09:35:42 +0700</pubDate><guid>https://wewnumam.github.io/id/game-design/</guid><description> Syarat Dasar Sebuah Game</description></item><item><title>Pemrograman</title><link>https://wewnumam.github.io/id/programming/</link><pubDate>Fri, 16 Dec 2022 09:35:31 +0700</pubDate><guid>https://wewnumam.github.io/id/programming/</guid><description> The Power of Variable Names</description></item><item><title>Dahsyatnya Fungsi Nama Variabel</title><link>https://wewnumam.github.io/id/articles/the-power-of-variable-names/</link><pubDate>Fri, 16 Dec 2022 09:22:51 +0700</pubDate><guid>https://wewnumam.github.io/id/articles/the-power-of-variable-names/</guid><description>Nama Variabel yang Bermakna Memilih nama yang baik membutuhkan waktu tetapi menghemat lebih banyak daripada yang dibutuhkan.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ahmad Adillaumam</title>
+    <link>https://wewnumam.github.io/id/</link>
+    <description>Recent content on Ahmad Adillaumam</description>
+    <image>
+      <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
+      <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Dec 2022 10:38:46 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>12 Cara Mudah untuk Membuat Video Menjadi Lebih Baik Secara Signifikan</title>
+      <link>https://wewnumam.github.io/id/articles/12-easy-ways-to-make-videos-significantly-better/</link>
+      <pubDate>Tue, 20 Dec 2022 10:38:46 +0700</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/articles/12-easy-ways-to-make-videos-significantly-better/</guid>
+      <description>Pikirkanlah Setiap Potongan Gambar Saat menonton video, kita hanya bisa melihat ke arah kamera membidik. Kalau kamera melihat hal yang sama terlalu lama atau tidak melihat sesuatu yang ingin penonton lihat, penonton akan bosan.
+Pertandingan olahraga di TV biasa diliput dengan belasan hingga puluhan kamera yang berbeda—setiap beberapa detik pindah ke gambar yang berbeda. Dan setiap gambar berfokus pada informasi yang baru. Setiap gambar memiliki arti, dan pemotongan antar gambar tersebut memberikan banyak informasi tanpa membuat penonton bosan.</description>
+    </item>
+    
+    <item>
+      <title>Format Game Design Document untuk Keperluan Akademik</title>
+      <link>https://wewnumam.github.io/id/articles/game-design-document-format-for-academic-purposes/</link>
+      <pubDate>Mon, 19 Dec 2022 08:35:24 +0700</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/articles/game-design-document-format-for-academic-purposes/</guid>
+      <description>Halaman Pembuka Pada cover halaman berisi informasi diantaranya:
+Judul. Judul berupa tulisan “Game Design Document” diperlukan untuk memberi nama dokumen sehingga secara sekilas orang dapat menyiratkan apa yang dimaksud dalam dokumen tersebut. Judul Game. Berupa lampiran nama game baik dalam bentuk logo atau bentuk apapun yang dapat dibaca. Genre dan Mode Permainan. Berisi keterangan mengenai genre dan mode permainan—seperti mode online atau offline, dan mode single-player atau multi-player—yang akan dipakai. Pemangku Kepentingan.</description>
+    </item>
+    
+    <item>
+      <title>Dahsyatnya Fungsi Nama Variabel</title>
+      <link>https://wewnumam.github.io/id/articles/the-power-of-variable-names/</link>
+      <pubDate>Fri, 16 Dec 2022 09:22:51 +0700</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/articles/the-power-of-variable-names/</guid>
+      <description>Nama Variabel yang Bermakna Memilih nama yang baik membutuhkan waktu tetapi menghemat lebih banyak daripada yang dibutuhkan.
 Nama yang Mengungkapkan Niat Nama harus menjawab semua pertanyaan besar. Nama harus memberitahu kita mengapa variabel itu ada, apa yang dilakukannya, dan bagaimana penggunaannya. Jika nama tersebut membutuhkan komentar, maka nama tersebut tidak mengungkapkan maksudnya.
-let d; // waktu yang berlalu dalam hari Kita harus memilih nama yang menentukan apa yang sedang diukur dan unit pengukuran itu:</description></item><item><title>Syarat Dasar Sebuah Game</title><link>https://wewnumam.github.io/id/articles/10-key-quality-of-games/</link><pubDate>Wed, 14 Dec 2022 23:59:06 +0700</pubDate><guid>https://wewnumam.github.io/id/articles/10-key-quality-of-games/</guid><description>Kenapa sebuah game bisa dikatakan game?
+let d; // waktu yang berlalu dalam hari Kita harus memilih nama yang menentukan apa yang sedang diukur dan unit pengukuran itu:</description>
+    </item>
+    
+    <item>
+      <title>Syarat Dasar Sebuah Game</title>
+      <link>https://wewnumam.github.io/id/articles/10-key-quality-of-games/</link>
+      <pubDate>Wed, 14 Dec 2022 23:59:06 +0700</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/articles/10-key-quality-of-games/</guid>
+      <description>Kenapa sebuah game bisa dikatakan game?
 Jawabannya adalah karena game memenuhi kunci-kunci kualitas sebuah game.
 Setidaknya, terdapat 10 kunci kualitas penting dalam sebuah permainan, menurut Jesse Schell dalam bukunya The Art of Game Design.
 Game dimainkan secara sukarela (volunteer) Tidak ada paksaan dalam bermain game. Artinya, pemain memiliki kendali untuk bebas mengikuti permainan dan keluar dari permainan.
-Game memiliki tujuan (goals) Sebuah game harus memiliki misi yang ditawarkan kepada pemain. Misi ini ditujukan untuk memberikan pemain tujuan bermain.</description></item><item><title>Ahmad Adillaumam - Designer Resume</title><link>https://wewnumam.github.io/id/ahmad-adillaumam-designer-resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wewnumam.github.io/id/ahmad-adillaumam-designer-resume/</guid><description>🛠 Kemampuan Perancangan board game dan video game. Desain grafis: Logo. Media cetak: board game, poster, cover buku, kartu nama, packaging. Social media kit. Digital painting. Pengarah produksi video. Editor video. 🕓 Pengalaman Freelance Graphic Designer 🗓️ 2019 - SEKARANG
-Mendesain poster, cover buku, desain packaging, dan social media kit. Mengikuti kontes desain logo di sribu.com. Tools yang dipakai: Inkscape, GIMP. Hasil yang di dapat: Orang-orang menyukai desain minimalis yang saya buat.</description></item><item><title>Ahmad Adillaumam - Software Developer Resume</title><link>https://wewnumam.github.io/id/ahmad-adillaumam-software-developer-resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wewnumam.github.io/id/ahmad-adillaumam-software-developer-resume/</guid><description>🛠 Kemampuan Pengembangan video game: Perancangan video game. Pemrograman game (Unity &amp;amp; HTML5). Pengembangan web: Front-End (HTML, CSS, Javascript) Back-End (Codeigniter, Laravel, NodeJS, Django) Database (MySQL, PostgreSQL). CMS (Wordpress, Hugo). Pemodelan perangkat lunak: Perancangan database. Perancangan dan dokumentasi API. Desain UI. Manajemen: Pengelolaan source code. Dokumentasi program. Manajemen project. 🕓 Pengalaman LKS Web Technology Prov. Jawa Tengah 🗓️ MARET 2021
-Speed test, membangun fitur-fitur web: CSS (responsive layout) Javascript (rgb color slider) PHP (captcha) Melakukan kustomisasi Wordpress themes menggunakan CSS.</description></item><item><title>Tentang Saya</title><link>https://wewnumam.github.io/id/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wewnumam.github.io/id/about/</guid><description>📚 Pecinta filosofi.
+Game memiliki tujuan (goals) Sebuah game harus memiliki misi yang ditawarkan kepada pemain. Misi ini ditujukan untuk memberikan pemain tujuan bermain.</description>
+    </item>
+    
+    <item>
+      <title>Ahmad Adillaumam - Designer Resume</title>
+      <link>https://wewnumam.github.io/id/ahmad-adillaumam-designer-resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/ahmad-adillaumam-designer-resume/</guid>
+      <description>🛠 Kemampuan Perancangan board game dan video game. Desain grafis: Logo. Media cetak: board game, poster, cover buku, kartu nama, packaging. Social media kit. Digital painting. Pengarah produksi video. Editor video. 🕓 Pengalaman Freelance Graphic Designer 🗓️ 2019 - SEKARANG
+Mendesain poster, cover buku, desain packaging, dan social media kit. Mengikuti kontes desain logo di sribu.com. Tools yang dipakai: Inkscape, GIMP. Hasil yang di dapat: Orang-orang menyukai desain minimalis yang saya buat.</description>
+    </item>
+    
+    <item>
+      <title>Ahmad Adillaumam - Software Developer Resume</title>
+      <link>https://wewnumam.github.io/id/ahmad-adillaumam-software-developer-resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/ahmad-adillaumam-software-developer-resume/</guid>
+      <description>🛠 Kemampuan Pengembangan video game: Perancangan video game. Pemrograman game (Unity &amp;amp; HTML5). Pengembangan web: Front-End (HTML, CSS, Javascript) Back-End (Codeigniter, Laravel, NodeJS, Django) Database (MySQL, PostgreSQL). CMS (Wordpress, Hugo). Pemodelan perangkat lunak: Perancangan database. Perancangan dan dokumentasi API. Desain UI. Manajemen: Pengelolaan source code. Dokumentasi program. Manajemen project. 🕓 Pengalaman LKS Web Technology Prov. Jawa Tengah 🗓️ MARET 2021
+Speed test, membangun fitur-fitur web: CSS (responsive layout) Javascript (rgb color slider) PHP (captcha) Melakukan kustomisasi Wordpress themes menggunakan CSS.</description>
+    </item>
+    
+    
+    <item>
+      <title>Tentang Saya</title>
+      <link>https://wewnumam.github.io/id/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/about/</guid>
+      <description>📚 Pecinta filosofi.
 🧑‍💻 Memiliki dedikasi dalam pengembangan perangkat lunak.
 🏷 Berkarya melalui konten dan desain.
 💻 Orang-orang datang ke saya untuk mendapatkan bantuan terkait teknologi.
 &amp;hellip;
 Masih mencari tahu irisannya.
 Kunjungi Linktree saya untuk mengenal saya lebih lanjut!
-Stop kutipan glorifikasi. Sadari saja apa yang kita inginkan butuhkan. ✌️</description></item></channel></rss>
+Stop kutipan glorifikasi. Sadari saja apa yang kita inginkan butuhkan. ✌️</description>
+    </item>
+    
+  </channel>
+</rss>
