@@ -2,6 +2,7 @@
 title: "Format Game Design Document untuk Keperluan Akademik"
 date: 2022-12-19T08:35:24+07:00
 draft: false
+tags: ["Game", "Game Development", "College"]
 ---
 
 ## Halaman Pembuka

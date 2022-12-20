@@ -2,6 +2,7 @@
 title: "The Basic Requirements of a Game"
 date: 2022-12-14T23:59:06+07:00
 draft: false
+tags: ["Game", "Game Design", "Game Development"]
 ---
 
 Why is a game said to be a game?

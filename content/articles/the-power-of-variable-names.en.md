@@ -2,6 +2,7 @@
 title: "The Power of Variable Names"
 date: 2022-12-16T09:22:51+07:00
 draft: false
+tags: ["Programming", "Technical Skill"]
 ---
 
 ## Meaningful Variable Names

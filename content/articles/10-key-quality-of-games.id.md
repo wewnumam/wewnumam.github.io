@@ -2,6 +2,7 @@
 title: "Syarat Dasar Sebuah Game"
 date: 2022-12-14T23:59:06+07:00
 draft: false
+tags: ["Game", "Game Design", "Game Development"]
 ---
 
 Kenapa sebuah game bisa dikatakan game?

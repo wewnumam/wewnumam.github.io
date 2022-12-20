@@ -2,6 +2,7 @@
 title: "12 Cara Mudah untuk Membuat Video Menjadi Lebih Baik Secara Signifikan"
 date: 2022-12-20T10:38:46+07:00
 draft: false
+tags: ["Videography", "Content Creation"]
 ---
 
 ## Pikirkanlah Setiap Potongan Gambar

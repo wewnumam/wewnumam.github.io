@@ -2,6 +2,7 @@
 title: "Dahsyatnya Fungsi Nama Variabel"
 date: 2022-12-16T09:22:51+07:00
 draft: false
+tags: ["Programming", "Technical Skill"]
 ---
 
 ## Nama Variabel yang Bermakna

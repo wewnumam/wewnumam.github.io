@@ -2,6 +2,7 @@
 title: "12 Easy Ways to Make Videos Significantly Better"
 date: 2022-12-20T10:38:43+07:00
 draft: false
+tags: ["Videography", "Content Creation"]
 ---
 
 ## Think about Every Piece of the Picture

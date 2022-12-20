@@ -2,6 +2,7 @@
 title: "Game Design Document Format for Academic Purposes"
 date: 2022-12-19T08:35:19+07:00
 draft: false
+tags: ["Game", "Game Development", "College"]
 ---
 
 ## Opening Page
