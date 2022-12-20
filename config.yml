@@ -1,0 +1,183 @@
+baseURL: https://wewnumam.github.io/
+title: Ahmad Adillaumam
+paginate: 5
+theme: PaperMod
+disqusShortname: https-wewnumam-github-io
+defaultContentLanguage: en
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+# googleAnalytics: UA-123-45
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 10
+        - identifier: search
+          name: search
+          url: /search/
+          weight: 15
+        - identifier: about
+          name: about me
+          url: /about/
+          weight: 20
+  id:
+    languageName: ":id:"
+    languageAltTitle: Indonesia
+    weight: 2
+    menu:
+      main:
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 10
+        - identifier: search
+          name: telusuri
+          url: /search/
+          weight: 15
+        - identifier: about
+          name: tentang saya
+          url: /about/
+          weight: 20
+    params:
+      homeInfoParams:
+        Title: "Halo \U0001F44B"
+        Content: Selamat datang di blog saya
+      editPost:
+        URL: https://github.com/wewnumam/wewnumam.github.io/tree/main/content
+        Text: Usulkan Perubahan # edit text
+        appendFilePath: true # to append file path to Edit link
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Ahmad Adillaumam
+  description: "Ahmad Adillaumam Blog's"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Ahmad Adillaumam
+  # author: [Me, You] # multiple authors
+  images: [<link or path of image for opengraph, twitter-cards>]
+  DateFormat: 2 January 2006
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: https://github.githubassets.com/favicons/favicon.png
+    favicon16x16: https://github.githubassets.com/favicons/favicon.png
+    favicon32x32: https://github.githubassets.com/favicons/favicon.png
+    apple_touch_icon: https://github.githubassets.com/favicons/favicon.png
+    safari_pinned_tab: https://github.githubassets.com/favicons/favicon.png
+
+  label:
+    text: Ahmad Adillaumam
+    icon: https://github.githubassets.com/favicons/favicon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: Ahmad Adillaumam
+    subtitle: Programming Enthusiast
+    imageUrl: <img location>
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: linktree
+      url: https://linktr.ee/adillaumam
+    - name: github
+      url: https://github.com/wewnumam
+    - name: linkedin
+      url: https://www.linkedin.com/in/ahmadadillaumam
+    - name: twitter
+      url: https://twitter.com/adillaumam
+
+  analytics:
+    google:
+      SiteVerificationTag: XYZabc
+    bing:
+      SiteVerificationTag: XYZabc
+    yandex:
+      SiteVerificationTag: XYZabc
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  editPost:
+    URL: https://github.com/wewnumam/wewnumam.github.io/tree/main/content
+    Text: Suggest Changes # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: [title, permalink, summary, content]
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        noClasses: false
+        # anchorLineNos: true
+        # codeFences: true
+        # guessSyntax: true
+        # lineNos: true
+        # style: monokai
