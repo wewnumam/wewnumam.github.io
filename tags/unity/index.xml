@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Programming on Ahmad Adillaumam</title>
-    <link>https://wewnumam.github.io/tags/programming/</link>
-    <description>Recent content in Programming on Ahmad Adillaumam</description>
+    <title>Unity on Ahmad Adillaumam</title>
+    <link>https://wewnumam.github.io/tags/unity/</link>
+    <description>Recent content in Unity on Ahmad Adillaumam</description>
     <image>
       <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Dec 2022 18:24:03 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 18:24:03 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntatic Sugars | C# Hidden Features</title>
       <link>https://wewnumam.github.io/articles/syntatic-sugars-csharp-hidden-features/</link>
@@ -20,17 +20,6 @@
 To be able to use these features we need at least C# version 7 and above or Unity 2018 and above.
 Ternary Operator In computer programming, the ternary conditional operator is a ternary operator that is part of the syntax for basic conditional expressions in several programming languages.It is commonly referred to as the conditional operator, ternary if, or inline if.
 An expression a ? b : c evaluates to b if the value of a is true, and otherwise to c.</description>
-    </item>
-    
-    <item>
-      <title>The Power of Variable Names</title>
-      <link>https://wewnumam.github.io/articles/the-power-of-variable-names/</link>
-      <pubDate>Fri, 16 Dec 2022 09:22:51 +0700</pubDate>
-      
-      <guid>https://wewnumam.github.io/articles/the-power-of-variable-names/</guid>
-      <description>Meaningful Variable Names Choosing good names takes time but saves more than it takes.
-Intention-Revealing Names The name should answer all big questions. It should tell you why it exists, what it does, and how it is used. If the name requires a comment, the name does not reveal the intent.
-let d; // elapsed time in days We should choose the name that specifies what is being measured and the unit of that measurement:</description>
     </item>
     
   </channel>

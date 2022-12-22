@@ -2,6 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wewnumam.github.io/id/</loc>
+    <lastmod>2022-12-22T18:24:06+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/</loc>
+    <lastmod>2022-12-22T18:24:06+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/c#/</loc>
+    <lastmod>2022-12-22T18:24:06+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/c#/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/c#/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/programming/</loc>
+    <lastmod>2022-12-22T18:24:06+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/programming/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/syntatic-sugars-csharp-hidden-features/</loc>
+    <lastmod>2022-12-22T18:24:06+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/syntatic-sugars-csharp-hidden-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/syntatic-sugars-csharp-hidden-features/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/</loc>
+    <lastmod>2022-12-22T18:24:06+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/unity/</loc>
+    <lastmod>2022-12-22T18:24:06+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/unity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/unity/"
+                />
+  </url><url>
     <loc>https://wewnumam.github.io/id/articles/12-easy-ways-to-make-videos-significantly-better/</loc>
     <lastmod>2022-12-20T10:38:46+07:00</lastmod>
     <xhtml:link
@@ -15,32 +106,6 @@
                 href="https://wewnumam.github.io/id/articles/12-easy-ways-to-make-videos-significantly-better/"
                 />
   </url><url>
-    <loc>https://wewnumam.github.io/id/</loc>
-    <lastmod>2022-12-20T10:38:46+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/articles/</loc>
-    <lastmod>2022-12-20T10:38:46+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/articles/"
-                />
-  </url><url>
     <loc>https://wewnumam.github.io/id/tags/content-creation/</loc>
     <lastmod>2022-12-20T10:38:46+07:00</lastmod>
     <xhtml:link
@@ -52,19 +117,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/tags/content-creation/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/tags/</loc>
-    <lastmod>2022-12-20T10:38:46+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/videography/</loc>
@@ -143,19 +195,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/articles/the-power-of-variable-names/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/tags/programming/</loc>
-    <lastmod>2022-12-16T09:22:51+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/programming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/programming/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/technical-skill/</loc>

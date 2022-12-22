@@ -9,7 +9,19 @@
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Dec 2022 10:38:43 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 18:24:03 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syntatic Sugars | C# Hidden Features</title>
+      <link>https://wewnumam.github.io/articles/syntatic-sugars-csharp-hidden-features/</link>
+      <pubDate>Thu, 22 Dec 2022 18:24:03 +0700</pubDate>
+      
+      <guid>https://wewnumam.github.io/articles/syntatic-sugars-csharp-hidden-features/</guid>
+      <description>Note:
+To be able to use these features we need at least C# version 7 and above or Unity 2018 and above.
+Ternary Operator In computer programming, the ternary conditional operator is a ternary operator that is part of the syntax for basic conditional expressions in several programming languages.It is commonly referred to as the conditional operator, ternary if, or inline if.
+An expression a ? b : c evaluates to b if the value of a is true, and otherwise to c.</description>
+    </item>
+    
     <item>
       <title>12 Easy Ways to Make Videos Significantly Better</title>
       <link>https://wewnumam.github.io/articles/12-easy-ways-to-make-videos-significantly-better/</link>
