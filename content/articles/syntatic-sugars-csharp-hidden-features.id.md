@@ -23,7 +23,7 @@ if (health > 0) {
     barColor = Color.red;
 }
 else {
-    barColor = Color.black
+    barColor = Color.black;
 }
 ```
 
@@ -209,7 +209,7 @@ public class Enemy {
 Enemy enemy = new Enemy("Groot", 100);
 
 // will print -> name: Groot, health: 100
-Debug.Log($"name: {enemy.name}, health: {enemy.health}");\
+Debug.Log($"name: {enemy.name}, health: {enemy.health}");
 
 // will print -> name: Groot, health: 100
 Debug.Log($"{nameof(Enemy.name)}: {enemy.name}, {nameof(Enemy.health)}: {enemy.health}");
@@ -227,7 +227,7 @@ public class Enemy {
 Enemy enemy = new Enemy("Groot", 100);
 
 // will print -> name: Groot, health: 100
-Debug.Log($"name: {enemy.id}, health: {enemy.hp}");\
+Debug.Log($"name: {enemy.id}, health: {enemy.hp}");
 
 // will print -> id: Groot, hp: 100
 Debug.Log($"{nameof(Enemy.id)}: {enemy.id}, {nameof(Enemy.hp)}: {enemy.hp}");
