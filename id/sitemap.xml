@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wewnumam.github.io/id/</loc>
-    <lastmod>2022-12-24T05:49:57+07:00</lastmod>
+    <lastmod>2022-12-27T19:11:25+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/</loc>
-    <lastmod>2022-12-24T05:49:57+07:00</lastmod>
+    <lastmod>2022-12-27T19:11:25+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/game/</loc>
-    <lastmod>2022-12-24T05:49:57+07:00</lastmod>
+    <lastmod>2022-12-27T19:11:25+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/game-design/</loc>
-    <lastmod>2022-12-24T05:49:57+07:00</lastmod>
+    <lastmod>2022-12-27T19:11:25+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/game-development/</loc>
-    <lastmod>2022-12-24T05:49:57+07:00</lastmod>
+    <lastmod>2022-12-27T19:11:25+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,7 +68,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/</loc>
-    <lastmod>2022-12-24T05:49:57+07:00</lastmod>
+    <lastmod>2022-12-27T19:11:25+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,6 +78,19 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/tags/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/top-10-game-designer-mistakes/</loc>
+    <lastmod>2022-12-27T19:11:25+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/top-10-game-designer-mistakes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/top-10-game-designer-mistakes/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/the-purpose-of-games/</loc>
