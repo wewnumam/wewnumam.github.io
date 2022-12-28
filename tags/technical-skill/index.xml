@@ -9,7 +9,17 @@
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Dec 2022 09:22:51 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/tags/technical-skill/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 05:39:10 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/tags/technical-skill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Tips for Creating Clean Code</title>
+      <link>https://wewnumam.github.io/articles/5-tips-for-creating-clean-code/</link>
+      <pubDate>Thu, 29 Dec 2022 05:39:10 +0700</pubDate>
+      
+      <guid>https://wewnumam.github.io/articles/5-tips-for-creating-clean-code/</guid>
+      <description>Clean code is code that is easy to read, understand, and maintain. It follows a set of coding standards and principles that aim to make the code as readable and maintainable as possible.
+Clean code is important because it helps reduce the time and effort required to understand and modify the codebase, and it makes it easier to add new features or fix bugs. It also promotes collaboration and reduces the risk of introducing new issues when modifying the code.</description>
+    </item>
+    
     <item>
       <title>The Power of Variable Names</title>
       <link>https://wewnumam.github.io/articles/the-power-of-variable-names/</link>

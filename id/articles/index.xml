@@ -9,7 +9,17 @@
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Dec 2022 19:11:25 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/id/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 05:39:14 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/id/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Tips untuk Membuat Kode yang Bersih</title>
+      <link>https://wewnumam.github.io/id/articles/5-tips-for-creating-clean-code/</link>
+      <pubDate>Thu, 29 Dec 2022 05:39:14 +0700</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/articles/5-tips-for-creating-clean-code/</guid>
+      <description>Clean code adalah kode yang mudah dibaca, dipahami, dan dikelola. Kode bersih mengikuti seperangkat standar dan prinsip pengkodean yang bertujuan untuk membuat kode dapat dimengerti dan dirawat sebaik mungkin.
+Clean code penting karena membantu mengurangi waktu dan upaya yang diperlukan untuk memahami dan memodifikasi basis kode, dan membuatnya lebih mudah untuk menambahkan fitur baru atau memperbaiki bug. Ini juga mendukung kolaborasi dan mengurangi risiko memperkenalkan masalah baru saat memodifikasi kode.</description>
+    </item>
+    
     <item>
       <title>Top 10 Kesalahan Game Designer</title>
       <link>https://wewnumam.github.io/id/articles/top-10-game-designer-mistakes/</link>
