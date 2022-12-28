@@ -1,5 +1,5 @@
 ---
-title: "Top 10 Kesalah Game Designer"
+title: "Top 10 Kesalahan Game Designer"
 date: 2022-12-27T19:11:25+07:00
 draft: false
 tags: ["Game", "Game Design", "Game Development"]
@@ -21,11 +21,11 @@ Sebagai seorang desainer game, penting untuk menyadari jebakan dan kesalahan umu
     
     Satu kesalahan yang harus dihindari oleh desainer game adalah tidak menggunakan cloud untuk penyimpanan dan kolaborasi. Penyimpanan lokal bisa menjadi masalah karena kapasitasnya terbatas dan rentan terhadap kehilangan data atau kerusakan karena masalah perangkat keras atau kejadian tak terduga lainnya. Cloud, di sisi lain, menyediakan kapasitas penyimpanan yang hampir tidak terbatas dan lebih dapat dikitalkan dan aman.
 
-1. ## Buat Proyek yang Belum Selesai
+1. ## Tidak Menyelesaikan Proyek
     
     Sangat penting untuk mengerjakan sebuah game sampai selesai daripada meninggalkannya di tengah jalan saat masih di tahap pengembangan. Pemain akan kecewa jika mereka menginvestasikan waktu dan uang ke dalam game yang tidak pernah sepenuhnya selesai. Lebih baik menetapkan tujuan dan prioritas yang realistis dan fokus untuk menyelesaikan sejumlah kecil proyek daripada mengambil terlalu banyak dan meninggalkan proyek yang belum selesai.
 
-1. ## Hanya Buat Game Sendiri
+1. ## Membuat Game Sendirian
     
     Berkolaborasi dengan orang lain dapat membawa perspektif dan ide segar ke meja dan dapat menghasilkan produk akhir yang lebih baik. Penting untuk mempertimbangkan untuk bekerja sama dengan orang lain, baik itu melalui perekrutan karyawan atau bermitra dengan pengembang lain. Bekerja sendiri dapat membatasi kreativitas dan potensi game kita.
 
