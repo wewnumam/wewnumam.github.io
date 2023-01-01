@@ -9,7 +9,17 @@
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 05:39:14 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 05:27:33 +0000</lastBuildDate><atom:link href="https://wewnumam.github.io/id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Tips untuk Menulis Pesan Git Commit yang Jelas dan Ringkas</title>
+      <link>https://wewnumam.github.io/id/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</link>
+      <pubDate>Sun, 01 Jan 2023 05:27:33 +0000</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</guid>
+      <description>Menulis pesan commit yang baik adalah praktik penting yang dapat membantu orang lain memahami perubahan yang telah kita buat dan alasannya. Berikut ini beberapa kiat untuk menulis commit message yang lebih baik:
+Gunakan baris subjek yang jelas dan deskriptif Baris pertama dari pesan commit harus berupa ringkasan singkat dan padat dari perubahan yang telah kita buat. Jaga agar panjangnya sekitar 50 karakter atau kurang. Ini akan membantu pengembang lain dengan cepat memahami perubahan yang telah kita buat.</description>
+    </item>
+    
     <item>
       <title>5 Tips untuk Membuat Kode yang Bersih</title>
       <link>https://wewnumam.github.io/id/articles/5-tips-for-creating-clean-code/</link>

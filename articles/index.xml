@@ -9,7 +9,17 @@
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Dec 2022 05:39:10 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 05:27:25 +0000</lastBuildDate><atom:link href="https://wewnumam.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Tips for Writing Clear and Concise Git Commit Messages</title>
+      <link>https://wewnumam.github.io/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</link>
+      <pubDate>Sun, 01 Jan 2023 05:27:25 +0000</pubDate>
+      
+      <guid>https://wewnumam.github.io/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</guid>
+      <description>Writing good commit messages is an important practice that can help other people understand the changes that you have made and why. Here are some tips for writing better commit messages:
+Use a clear and descriptive subject line The first line of the commit message should be a short and concise summary of the changes that you have made. Keep it to around 50 characters or less. This will help other developers quickly understand the changes that you have made.</description>
+    </item>
+    
     <item>
       <title>5 Tips for Creating Clean Code</title>
       <link>https://wewnumam.github.io/articles/5-tips-for-creating-clean-code/</link>
