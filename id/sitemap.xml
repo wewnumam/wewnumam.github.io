@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wewnumam.github.io/id/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</loc>
-    <lastmod>2023-01-01T05:27:33+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/"
-                />
-  </url><url>
     <loc>https://wewnumam.github.io/id/</loc>
-    <lastmod>2023-01-01T05:27:33+00:00</lastmod>
+    <lastmod>2023-01-02T01:11:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +16,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/</loc>
-    <lastmod>2023-01-01T05:27:33+00:00</lastmod>
+    <lastmod>2023-01-02T01:11:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,8 +28,60 @@
                 href="https://wewnumam.github.io/id/articles/"
                 />
   </url><url>
+    <loc>https://wewnumam.github.io/id/tags/business/</loc>
+    <lastmod>2023-01-02T01:11:20+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/business/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/business/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/career/</loc>
+    <lastmod>2023-01-02T01:11:20+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/career/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/career/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/game/</loc>
+    <lastmod>2023-01-02T01:11:20+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/game/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/game/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/making-money-from-games/</loc>
+    <lastmod>2023-01-02T01:11:20+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/making-money-from-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/making-money-from-games/"
+                />
+  </url><url>
     <loc>https://wewnumam.github.io/id/tags/</loc>
-    <lastmod>2023-01-01T05:27:33+00:00</lastmod>
+    <lastmod>2023-01-02T01:11:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,6 +91,19 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/tags/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</loc>
+    <lastmod>2023-01-01T05:27:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/technical-skill/</loc>
@@ -91,19 +143,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/tags/programming/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/tags/game/</loc>
-    <lastmod>2022-12-27T19:11:25+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/game/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/game/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/game-design/</loc>
