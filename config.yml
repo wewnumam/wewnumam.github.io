@@ -161,6 +161,8 @@ params:
       url: https://github.com/wewnumam
     - name: itchio
       url: https://wewnumam.itch.io
+    - name: youtube
+      url: https://www.youtube.com/channel/UC4Zw7AePItu5K9-3mgCxw-w
     - name: linkedin
       url: https://www.linkedin.com/in/ahmadadillaumam
     - name: twitter
