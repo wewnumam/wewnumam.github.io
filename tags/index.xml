@@ -9,20 +9,11 @@
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 22:40:46 +0000</lastBuildDate><atom:link href="https://wewnumam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>College</title>
-      <link>https://wewnumam.github.io/tags/college/</link>
-      <pubDate>Tue, 03 Jan 2023 22:40:46 +0000</pubDate>
-      
-      <guid>https://wewnumam.github.io/tags/college/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 17 Jan 2023 21:54:08 +0000</lastBuildDate><atom:link href="https://wewnumam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game</title>
       <link>https://wewnumam.github.io/tags/game/</link>
-      <pubDate>Tue, 03 Jan 2023 22:40:46 +0000</pubDate>
+      <pubDate>Tue, 17 Jan 2023 21:54:08 +0000</pubDate>
       
       <guid>https://wewnumam.github.io/tags/game/</guid>
       <description></description>
@@ -31,9 +22,27 @@
     <item>
       <title>Game Design</title>
       <link>https://wewnumam.github.io/tags/game-design/</link>
-      <pubDate>Tue, 03 Jan 2023 22:40:46 +0000</pubDate>
+      <pubDate>Tue, 17 Jan 2023 21:54:08 +0000</pubDate>
       
       <guid>https://wewnumam.github.io/tags/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Development</title>
+      <link>https://wewnumam.github.io/tags/game-development/</link>
+      <pubDate>Tue, 17 Jan 2023 21:54:08 +0000</pubDate>
+      
+      <guid>https://wewnumam.github.io/tags/game-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>College</title>
+      <link>https://wewnumam.github.io/tags/college/</link>
+      <pubDate>Tue, 03 Jan 2023 22:40:46 +0000</pubDate>
+      
+      <guid>https://wewnumam.github.io/tags/college/</guid>
       <description></description>
     </item>
     
@@ -70,15 +79,6 @@
       <pubDate>Thu, 29 Dec 2022 05:39:10 +0700</pubDate>
       
       <guid>https://wewnumam.github.io/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game Development</title>
-      <link>https://wewnumam.github.io/tags/game-development/</link>
-      <pubDate>Tue, 27 Dec 2022 19:11:18 +0700</pubDate>
-      
-      <guid>https://wewnumam.github.io/tags/game-development/</guid>
       <description></description>
     </item>
     
