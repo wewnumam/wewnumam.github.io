@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wewnumam.github.io/</loc>
-    <lastmod>2023-05-28T03:23:27+00:00</lastmod>
+    <lastmod>2023-06-02T06:01:16+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/articles/</loc>
-    <lastmod>2023-05-28T03:23:27+00:00</lastmod>
+    <lastmod>2023-06-02T06:01:16+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -26,6 +26,71 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wewnumam.github.io/articles/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/tags/career/</loc>
+    <lastmod>2023-06-02T06:01:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/career/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/career/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/tags/game/</loc>
+    <lastmod>2023-06-02T06:01:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/game/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/game/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/articles/having-the-right-mindset-to-survive-in-the-game-industry/</loc>
+    <lastmod>2023-06-02T06:01:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/having-the-right-mindset-to-survive-in-the-game-industry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/having-the-right-mindset-to-survive-in-the-game-industry/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/tags/industry/</loc>
+    <lastmod>2023-06-02T06:01:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/industry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/industry/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/tags/</loc>
+    <lastmod>2023-06-02T06:01:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/tags/business/</loc>
@@ -65,45 +130,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wewnumam.github.io/articles/gameseed-roadshow-key-points/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/tags/industry/</loc>
-    <lastmod>2023-05-28T03:23:27+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/industry/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/industry/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/tags/</loc>
-    <lastmod>2023-05-28T03:23:27+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/tags/game/</loc>
-    <lastmod>2023-01-17T21:54:08+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/game/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/game/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/tags/game-design/</loc>
@@ -156,19 +182,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wewnumam.github.io/articles/why-do-people-play-games/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/tags/career/</loc>
-    <lastmod>2023-01-02T01:11:08+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/career/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/career/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/articles/making-money-from-games/</loc>
