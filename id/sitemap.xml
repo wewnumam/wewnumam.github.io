@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wewnumam.github.io/id/</loc>
-    <lastmod>2023-06-02T06:01:16+00:00</lastmod>
+    <lastmod>2023-06-25T23:07:59+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/</loc>
-    <lastmod>2023-06-02T06:01:16+00:00</lastmod>
+    <lastmod>2023-06-25T23:07:59+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +26,71 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/articles/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/game/</loc>
+    <lastmod>2023-06-25T23:07:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/game/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/game/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/game-design/</loc>
+    <lastmod>2023-06-25T23:07:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/game-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/game-design/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/game-development/</loc>
+    <lastmod>2023-06-25T23:07:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/game-development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/game-development/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/understanding-publisher-expectations-for-your-game-pitch/</loc>
+    <lastmod>2023-06-25T23:07:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/understanding-publisher-expectations-for-your-game-pitch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/understanding-publisher-expectations-for-your-game-pitch/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/</loc>
+    <lastmod>2023-06-25T23:07:59+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/career/</loc>
@@ -39,19 +104,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/tags/career/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/tags/game/</loc>
-    <lastmod>2023-06-02T06:01:16+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/game/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/game/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/industry/</loc>
@@ -80,19 +132,6 @@
                 href="https://wewnumam.github.io/id/articles/having-the-right-mindset-to-survive-in-the-game-industry/"
                 />
   </url><url>
-    <loc>https://wewnumam.github.io/id/tags/</loc>
-    <lastmod>2023-06-02T06:01:16+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/"
-                />
-  </url><url>
     <loc>https://wewnumam.github.io/id/tags/business/</loc>
     <lastmod>2023-05-28T03:23:27+00:00</lastmod>
     <xhtml:link
@@ -104,19 +143,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/tags/business/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/tags/game-development/</loc>
-    <lastmod>2023-05-28T03:23:27+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/game-development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/game-development/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/gameseed-roadshow-key-points/</loc>
@@ -143,19 +169,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/articles/how-to-run-your-first-playtest/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/tags/game-design/</loc>
-    <lastmod>2023-01-17T21:54:17+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/game-design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/game-design/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/college/</loc>
