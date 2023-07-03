@@ -228,6 +228,64 @@ tags: ["Game Development", "Business", "Industry"]
 - Always have a plan B ready, so that you can totally stick to plan A without fear, in the end you have to be able to keep going.
 - Tips for surviving in the gaming industry: (1) just make it, (2) networking, (3) invest in skills other than gamedev, (4) consistently finish the job, get the full lesson.
 
+## Andi Taru
+{{< youtube nSBMWesGzbw >}}
+- In making a game, there are various considerations such as genre, location, and technical platform.
+- Resource considerations include man power (number of workers), time (time and money), skill (level of complexity), and moment (trend).
+- There are several ways to monetize games, such as through advertising (banner, interstitial, rewarded, etc), in-app (item purchase, subscription), or premium (paid games).
+- "Dreams are not what you see in your sleep, dreams are things that do not let you sleep" ~ Cristiano Ronaldo.
+- What is your goal in making a game? Money, fun, or impact.
+- To earn Rp 5 million per month, it can be done through in-app advertising (20k players per month), paid game sales (1500 buyers per month), or through projects (1 project worth 60 million, 10 projects worth 6 million, 100 projects worth 600k).
+- Creating games with the goal of helping others can be done through educational games, social campaigns, or serious games (games for training).
+- Sweet Spot: reaching the intersection of making money, mastering skills, and enjoying the process.
+- Problem-solution Fit: the game must be truly entertaining and appealing to the right target audience.
+- Scaling up the business can be done through increasing quantity (advertising and in-app purchases, increasing the number of games), quality (paid games, increasing purchase conversion), and market share (reaching a wider market).
+- The game development industry has high risks, but also high profit potential.
+
+## Agung Subagiyo
+{{< youtube tFQtOgsO1dU >}}
+- Combining the hobbies we love with the skills we have: when we are enthusiastic about a hobby, we will know what makes it fun, and from there we can find the potential in producing other products.
+- The most difficult part of making a game is estimating cost, time, and quality.
+- Effective marketing is when users themselves promote (through sharing content or social networks).
+- Performance on low-spec mobile devices: build size will affect the number of users who can reach the game, and frame rate will affect playability on common devices.
+- Make sure to use third-party tools that are consistently maintained by the developer.
+- Basic app store rituals: select relevant keywords, use screenshots that clearly illustrate, use unique icons, implement important features of the platform (leaderboards, achievements, cloud storage, etc), respond to user reviews.
+- Include important keywords for discoverability, and be specific in the description.
+- Use A/B testing on marketing media such as icons, screenshots, campaign images, and so on.
+- Don't rely solely on reviews to identify issues, use feedback from other tools (consoles, analytics, etc), as only a small percentage of users leave reviews.
+- Engagement and performance: D1-D30 retention rate and duration per session need to be improved, an important factor for Android is its vitality which affects the visibility of the game on Google Play.
+- We can judge the extent to which people like our game by their facial expressions, not just by their words.
+- The success of a game is seen in financial terms, how well it converts.
+- Mobile game players don't have a lot of time to play, so make sure the user experience/usability is simple and responsive in situations that distract the player.
+- The health of games in a region is measured by the formula: (revenue / number of downloads) > (marketing budget / number of downloads)
+
+## Jessica Hartanto
+{{< youtube P2e7VSG-6gs >}}
+- Use trends as a way to attract players, use tools like Google Trends.
+- After knowing the trends, give our game a unique value so that it is not too common.
+- CPI (Cost Per Install) on iOS is 3 times higher compared to Android. The global average CPI in 2023 is $2.24.
+- Using content creator endorsers can help reduce the CPI cost.
+- Lessons learned: game design greatly affects game retention, use tools commonly used in the industry to solve technical problems, and don't rely on just one product or platform.
+- Failure is part of the process to success, so don't be afraid to face it.
+- If you want to make a game, it's important to have people who can do marketing, or at least we should know how to market it.
+- Work experience is essential to understand how the industry works, such as project management, team organization, and running a business.
+- How to find the right endorser: find and make a list of content creators who are relevant to their content, their audience, and our product, then find out their level of engagement and fees professionally, and finally make an offer accordingly.
+
+## Eldwin Viriya
+{{< youtube uoay6on7AOs >}}
+- Even if we get lucky with one game, the question is whether we can repeat the success?
+- Even if the revenue is not as big as the successful game, the game should be able to support the team and grow.
+- While it's not the ideal business decision, if what gets you going is the team, don't sacrifice the team, adapt to new things to stay afloat, and try changing the business model.
+- If there is an assumption that making games based on trends will quickly disappear, go back to the way of development and how to read data, because at that time we are not only making games, but also building a business.
+- Find our strengths, re-value them, and find out if we can replicate the formula for success.
+- Don't put all our eggs in one basket.
+- Everyone has a different journey, some moments cannot be compared, this is our personal journey and process, choose our own path and be aware of the choices we make, in the end we are dealing with ourselves and asking ourselves.
+- For specific user acquisition, the cost will be affected by the extent to which the trend exists in the market, the easier the keyword is searched and presented, the cheaper the acquisition cost.
+- It is not advisable to use marketing budget other than revenue, figure out the lifetime value of our game, allocate revenue to marketing budget.
+- If your game follows the trend, release it immediately to get organic traffic.
+- Choose the right platform: (1) What is our game type? (2) How to find a suitable community for our game? (3) Use relevant social media.
+- An important business relationship to understand is the exchange of value with clients, whether they are looking for a good fit or value for money, and clients only work with people they can trust.
+
 
 ## Watch the Full Roadshow At
 https://www.youtube.com/playlist?list=PLVUyIfQWnm-EnPV53GdCtNhkhA7aA5ELv

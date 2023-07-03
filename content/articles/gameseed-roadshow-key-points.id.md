@@ -228,6 +228,66 @@ tags: ["Game Development", "Business", "Industry"]
 - Selalu siapkan plan B, supaya kita bisa total di plan A tanpa takut, pada akhirnya kita harus bisa jalan terus.
 - Tips bertahan di industri game: (1) bikin ya bikin aja, (2) networking, (3) investasi skill selain gamedev, (4) konsisten selesaikan pekerjaan, dapatkan pelajaran utuhnya.
 
+Gameseed Roadshow Surakarta
+
+## Andi Taru
+{{< youtube nSBMWesGzbw >}}
+- Dalam membuat game, terdapat berbagai pertimbangan seperti genre, lokasi, dan platform teknis.
+- Pertimbangan sumber daya meliputi man power (jumlah pekerja), time (waktu dan uang), skill (tingkat kompleksitas), dan moment (tren).
+- Ada beberapa cara untuk menghasilkan uang dari game, seperti melalui iklan (banner, interstitial, rewarded, dll), in-app (pembelian item, langganan), atau premium (game berbayar).
+- "Dreams are not what you see in your sleep, dreams are things which do not let you sleep" ~ Cristiano Ronaldo.
+- Apa tujuanmu dalam membuat game? Uang, kesenangan, atau dampak.
+- Untuk mendapatkan pendapatan sebesar Rp 5 juta per bulan, dapat dilakukan melalui iklan dalam aplikasi (20 ribu pemain per bulan), penjualan game berbayar (1500 pembeli per bulan), atau melalui proyek (1 proyek senilai 60 juta, 10 proyek senilai 6 juta, 100 proyek senilai 600 ribu).
+- Membuat game dengan tujuan membantu orang lain dapat dilakukan melalui game edukasi, kampanye sosial, atau serious game (game untuk pelatihan).
+- Sweet Spot: mencapai titik temu antara menghasilkan uang, menguasai keterampilan, dan menikmati prosesnya.
+- Problem-solution Fit: game yang dibuat harus benar-benar menghibur dan menarik bagi target pemain yang tepat.
+- Meningkatkan skalabilitas bisnis dapat dilakukan melalui peningkatan kuantitas (iklan dan pembelian dalam aplikasi, meningkatkan jumlah game), kualitas (game berbayar, meningkatkan konversi pembelian), dan pangsa pasar (menjangkau pasar yang lebih luas).
+- Industri pengembangan game memiliki risiko yang tinggi, namun juga potensi keuntungan yang tinggi.
+
+## Agung Subagiyo
+{{< youtube tFQtOgsO1dU >}}
+- Menggabungkan antara hobi yang kita sukai dengan kemampuan yang kita miliki: ketika kita antusias terhadap suatu hobi, kita akan mengetahui apa yang membuatnya menyenangkan, dan dari sana kita dapat menemukan potensi dalam menghasilkan produk lain.
+- Bagian paling sulit dalam membuat game adalah memperkirakan biaya, waktu, dan kualitas.
+- Pemasaran yang efektif adalah ketika pengguna sendiri yang mempromosikan (melalui konten berbagi atau jejaring sosial).
+- Kinerja pada perangkat mobile dengan spesifikasi rendah: ukuran build akan mempengaruhi jumlah pengguna yang dapat mencapai game tersebut, dan frame rate akan mempengaruhi kebermainan pada perangkat umum.
+- Pastikan menggunakan alat pihak ketiga yang secara konsisten dikelola oleh pengembangnya.
+- Ritual dasar dalam toko aplikasi: pilih kata kunci yang relevan, gunakan tangkapan layar yang menggambarkan dengan jelas, gunakan ikon yang unik, terapkan fitur penting dari platform (papan peringkat, pencapaian, penyimpanan awan, dll), tanggapi ulasan pengguna.
+- Sertakan kata kunci penting agar mudah ditemukan (discoverability), dan jelaskan secara spesifik dalam deskripsi.
+- Gunakan pengujian A/B pada media pemasaran seperti ikon, tangkapan layar, gambar kampanye, dan sebagainya.
+- Jangan hanya mengandalkan ulasan untuk mengidentifikasi masalah, gunakan umpan balik dari alat lain (konsol, analitik, dll), karena hanya sebagian kecil pengguna yang memberikan ulasan.
+- Keterlibatan dan kinerja: tingkat retensi D1-D30 dan durasi per sesi perlu ditingkatkan, faktor penting bagi Android adalah vitalitasnya yang mempengaruhi visibilitas game di Google Play.
+- Kita dapat menilai sejauh mana orang menyukai game kita dari ekspresi wajah mereka, bukan hanya dari kata-katanya.
+- Kesuksesan sebuah game dilihat dari sisi finansial, seberapa baik konversinya.
+- Pemain game mobile tidak memiliki banyak waktu untuk bermain, maka pastikan pengalaman pengguna/usability-nya sederhana dan responsif dalam situasi yang mengganggu pemain.
+- Kesehatan game dalam suatu wilayah diukur dengan rumus: (pendapatan / jumlah unduhan) > (anggaran pemasaran / jumlah unduhan)
+
+## Jessica Hartanto
+{{< youtube P2e7VSG-6gs >}}
+- Gunakan tren sebagai cara untuk menarik pemain, gunakan alat seperti Google Trends.
+- Setelah mengetahui tren, berikan nilai unik pada game kita agar tidak terlalu umum.
+- CPI (Cost Per Install) pada iOS adalah 3 kali lipat lebih tinggi dibandingkan dengan Android. Rata-rata CPI global tahun 2023 adalah $2.24.
+- Menggunakan endorser konten kreator dapat membantu mengurangi biaya CPI.
+- Pelajaran yang didapat: desain game sangat mempengaruhi retensi game, gunakan alat yang umum digunakan dalam industri untuk mengatasi masalah teknis, dan jangan bergantung hanya pada satu produk atau platform.
+- Kegagalan adalah bagian dari proses menuju kesuksesan, jadi jangan takut menghadapinya.
+- Jika ingin membuat game, penting memiliki orang yang dapat melakukan pemasaran, atau setidaknya kita harus tahu cara memasarkannya.
+- Pengalaman kerja sangat penting untuk memahami cara industri bekerja, seperti manajemen proyek, pengaturan tim, dan menjalankan bisnis.
+- Cara mencari endorser yang tepat: cari dan buat daftar konten kreator yang relevan dengan konten mereka, audiens mereka, dan produk kita, lalu cari tahu tingkat keterlibatan dan biaya mereka secara profesional, dan terakhir buat penawaran yang sesuai.
+
+## Eldwin Viriya
+{{< youtube uoay6on7AOs >}}
+- Meskipun kita beruntung dengan satu game, pertanyaannya adalah apakah kita dapat mengulang kesuksesan tersebut?
+- Meskipun pendapatan tidak sebesar game yang sukses, game tersebut harus mampu mendukung tim dan tumbuh.
+- Meskipun bukan keputusan bisnis yang ideal, jika yang membuat kita maju adalah tim, jangan mengorbankan tim, adaptasikan diri dengan hal-hal baru untuk tetap bertahan, dan coba ubah model bisnis.
+- Jika ada anggapan bahwa membuat game berdasarkan tren akan cepat menghilang, kembali pada cara pengembangan dan cara membaca data, karena pada saat itu kita tidak hanya membuat game, tetapi juga membangun bisnis.
+- Temukan kekuatan kita, nilai kembali, dan cari tahu apakah kita dapat mereplikasi formula kesuksesan.
+- Jangan meletakkan semua telur kita dalam satu keranjang.
+- Setiap orang memiliki perjalanan yang berbeda, beberapa momen tidak dapat dibandingkan, ini adalah perjalanan dan proses pribadi kita, pilih jalur kita sendiri dan sadari pilihan yang kita buat, pada akhirnya kita berhadapan dengan diri kita sendiri dan menanyakan diri kita sendiri.
+- Untuk akuisisi pengguna yang spesifik, biaya akan dipengaruhi oleh sejauh mana tren tersebut ada di pasar, semakin mudah kata kunci itu dicari dan dihadirkan, semakin murah biaya akuisisinya.
+- Tidak disarankan menggunakan anggaran pemasaran selain dari pendapatan, cari tahu nilai seumur hidup game kita, alokasikan pendapatan untuk anggaran pemasaran.
+- Jika game kita mengikuti tren, segera rilis untuk mendapatkan lalu lintas organik.
+- Pilih platform yang tepat: (1) Apa jenis game kita? (2) Bagaimana cara menemukan komunitas yang cocok untuk game kita? (3) Gunakan media sosial yang relevan.
+- Hubungan bisnis yang penting untuk dipahami adalah pertukaran nilai dengan klien, apakah mereka mencari nilai yang pas atau nilai yang melebihi uang yang mereka keluarkan, dan klien hanya bekerja dengan orang-orang yang dapat dipercaya.
+
 ---
 
 ## Tonton Roadshow Lengkapnya Di
