@@ -228,14 +228,13 @@ tags: ["Game Development", "Business", "Industry"]
 - Selalu siapkan plan B, supaya kita bisa total di plan A tanpa takut, pada akhirnya kita harus bisa jalan terus.
 - Tips bertahan di industri game: (1) bikin ya bikin aja, (2) networking, (3) investasi skill selain gamedev, (4) konsisten selesaikan pekerjaan, dapatkan pelajaran utuhnya.
 
-Gameseed Roadshow Surakarta
+---
 
 ## Andi Taru
 {{< youtube nSBMWesGzbw >}}
 - Dalam membuat game, terdapat berbagai pertimbangan seperti genre, lokasi, dan platform teknis.
 - Pertimbangan sumber daya meliputi man power (jumlah pekerja), time (waktu dan uang), skill (tingkat kompleksitas), dan moment (tren).
 - Ada beberapa cara untuk menghasilkan uang dari game, seperti melalui iklan (banner, interstitial, rewarded, dll), in-app (pembelian item, langganan), atau premium (game berbayar).
-- "Dreams are not what you see in your sleep, dreams are things which do not let you sleep" ~ Cristiano Ronaldo.
 - Apa tujuanmu dalam membuat game? Uang, kesenangan, atau dampak.
 - Untuk mendapatkan pendapatan sebesar Rp 5 juta per bulan, dapat dilakukan melalui iklan dalam aplikasi (20 ribu pemain per bulan), penjualan game berbayar (1500 pembeli per bulan), atau melalui proyek (1 proyek senilai 60 juta, 10 proyek senilai 6 juta, 100 proyek senilai 600 ribu).
 - Membuat game dengan tujuan membantu orang lain dapat dilakukan melalui game edukasi, kampanye sosial, atau serious game (game untuk pelatihan).
@@ -243,6 +242,9 @@ Gameseed Roadshow Surakarta
 - Problem-solution Fit: game yang dibuat harus benar-benar menghibur dan menarik bagi target pemain yang tepat.
 - Meningkatkan skalabilitas bisnis dapat dilakukan melalui peningkatan kuantitas (iklan dan pembelian dalam aplikasi, meningkatkan jumlah game), kualitas (game berbayar, meningkatkan konversi pembelian), dan pangsa pasar (menjangkau pasar yang lebih luas).
 - Industri pengembangan game memiliki risiko yang tinggi, namun juga potensi keuntungan yang tinggi.
+> *"Dreams are not what you see in your sleep, dreams are things which do not let you sleep" ~ Cristiano Ronaldo.*
+
+---
 
 ## Agung Subagiyo
 {{< youtube tFQtOgsO1dU >}}
@@ -257,9 +259,11 @@ Gameseed Roadshow Surakarta
 - Jangan hanya mengandalkan ulasan untuk mengidentifikasi masalah, gunakan umpan balik dari alat lain (konsol, analitik, dll), karena hanya sebagian kecil pengguna yang memberikan ulasan.
 - Keterlibatan dan kinerja: tingkat retensi D1-D30 dan durasi per sesi perlu ditingkatkan, faktor penting bagi Android adalah vitalitasnya yang mempengaruhi visibilitas game di Google Play.
 - Kita dapat menilai sejauh mana orang menyukai game kita dari ekspresi wajah mereka, bukan hanya dari kata-katanya.
-- Kesuksesan sebuah game dilihat dari sisi finansial, seberapa baik konversinya.
 - Pemain game mobile tidak memiliki banyak waktu untuk bermain, maka pastikan pengalaman pengguna/usability-nya sederhana dan responsif dalam situasi yang mengganggu pemain.
 - Kesehatan game dalam suatu wilayah diukur dengan rumus: (pendapatan / jumlah unduhan) > (anggaran pemasaran / jumlah unduhan)
+> *Kesuksesan sebuah game dilihat dari sisi finansial, seberapa baik konversinya.*
+
+---
 
 ## Jessica Hartanto
 {{< youtube P2e7VSG-6gs >}}
@@ -268,10 +272,12 @@ Gameseed Roadshow Surakarta
 - CPI (Cost Per Install) pada iOS adalah 3 kali lipat lebih tinggi dibandingkan dengan Android. Rata-rata CPI global tahun 2023 adalah $2.24.
 - Menggunakan endorser konten kreator dapat membantu mengurangi biaya CPI.
 - Pelajaran yang didapat: desain game sangat mempengaruhi retensi game, gunakan alat yang umum digunakan dalam industri untuk mengatasi masalah teknis, dan jangan bergantung hanya pada satu produk atau platform.
-- Kegagalan adalah bagian dari proses menuju kesuksesan, jadi jangan takut menghadapinya.
 - Jika ingin membuat game, penting memiliki orang yang dapat melakukan pemasaran, atau setidaknya kita harus tahu cara memasarkannya.
 - Pengalaman kerja sangat penting untuk memahami cara industri bekerja, seperti manajemen proyek, pengaturan tim, dan menjalankan bisnis.
 - Cara mencari endorser yang tepat: cari dan buat daftar konten kreator yang relevan dengan konten mereka, audiens mereka, dan produk kita, lalu cari tahu tingkat keterlibatan dan biaya mereka secara profesional, dan terakhir buat penawaran yang sesuai.
+> *Kegagalan adalah bagian dari proses menuju kesuksesan, jadi jangan takut menghadapinya.*
+
+---
 
 ## Eldwin Viriya
 {{< youtube uoay6on7AOs >}}
@@ -280,13 +286,25 @@ Gameseed Roadshow Surakarta
 - Meskipun bukan keputusan bisnis yang ideal, jika yang membuat kita maju adalah tim, jangan mengorbankan tim, adaptasikan diri dengan hal-hal baru untuk tetap bertahan, dan coba ubah model bisnis.
 - Jika ada anggapan bahwa membuat game berdasarkan tren akan cepat menghilang, kembali pada cara pengembangan dan cara membaca data, karena pada saat itu kita tidak hanya membuat game, tetapi juga membangun bisnis.
 - Temukan kekuatan kita, nilai kembali, dan cari tahu apakah kita dapat mereplikasi formula kesuksesan.
-- Jangan meletakkan semua telur kita dalam satu keranjang.
 - Setiap orang memiliki perjalanan yang berbeda, beberapa momen tidak dapat dibandingkan, ini adalah perjalanan dan proses pribadi kita, pilih jalur kita sendiri dan sadari pilihan yang kita buat, pada akhirnya kita berhadapan dengan diri kita sendiri dan menanyakan diri kita sendiri.
 - Untuk akuisisi pengguna yang spesifik, biaya akan dipengaruhi oleh sejauh mana tren tersebut ada di pasar, semakin mudah kata kunci itu dicari dan dihadirkan, semakin murah biaya akuisisinya.
 - Tidak disarankan menggunakan anggaran pemasaran selain dari pendapatan, cari tahu nilai seumur hidup game kita, alokasikan pendapatan untuk anggaran pemasaran.
 - Jika game kita mengikuti tren, segera rilis untuk mendapatkan lalu lintas organik.
 - Pilih platform yang tepat: (1) Apa jenis game kita? (2) Bagaimana cara menemukan komunitas yang cocok untuk game kita? (3) Gunakan media sosial yang relevan.
 - Hubungan bisnis yang penting untuk dipahami adalah pertukaran nilai dengan klien, apakah mereka mencari nilai yang pas atau nilai yang melebihi uang yang mereka keluarkan, dan klien hanya bekerja dengan orang-orang yang dapat dipercaya.
+> *Jangan meletakkan semua telur kita dalam satu keranjang.*
+
+## Panelis Surakarta
+{{< youtube Rq20BD9DRyI >}}
+- Cara mengenali kekuatan kita di bidang pengembangan game adalah dengan menemukan dengan mendalam apa yang kita nikmati dari hal-hal yang kita sukai, dan kemudian mengubahnya menjadi sebuah game yang dapat kita bagikan kepada orang lain.
+- Cara praktis mengenali kekuatan kita adalah dengan menjelajahi banyak game, memperhatikan tren terkini, dan mengasah keterampilan yang relevan.
+- Untuk B2C, diperlukan penelitian pasar dan validasi, untuk B2B, diperlukan pitch dan portofolio, dan untuk B2G, diperlukan pemahaman birokrasi. Fokus pada salah satu aspek ini saja agar hasilnya maksimal.
+- Tidak ada pilihan pekerjaan yang lebih baik atau buruk dari yang lain. Yang terpenting adalah memiliki tujuan yang jelas dan komitmen untuk mencapainya, serta tetap fleksibel dalam menjalani prosesnya.
+- Tidak ada kesuksesan instan dalam mencapai hasil yang sempurna. Setiap perjalanan memiliki learning curve di mana kita perlu melalui banyak pembelajaran untuk mencapai kesuksesan.
+- Tujuan kita membuat game bukan hanya untuk diri sendiri, tetapi juga untuk orang lain yang akan memainkannya.
+- Dalam perspektif bisnis, game yang baik adalah game yang menghasilkan uang, dan tim yang baik adalah tim yang dapat menciptakan game yang menghasilkan uang.
+- Mulailah dengan percaya diri dan bertindak, kemudian cari validasi dan cari cara untuk bertahan.
+- Sebelum memutuskan untuk masuk ke industri game, pahami terlebih dahulu risiko dan kondisi finansial kita saat ini, serta pastikan memiliki rencana B jika diperlukan.
 
 ---
 
