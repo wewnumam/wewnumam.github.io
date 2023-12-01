@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wewnumam.github.io/id/</loc>
-    <lastmod>2023-07-08T01:27:43+00:00</lastmod>
+    <lastmod>2023-12-01T06:10:34+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/</loc>
-    <lastmod>2023-07-08T01:27:43+00:00</lastmod>
+    <lastmod>2023-12-01T06:10:34+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +26,19 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/articles/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/having-the-right-mindset-as-a-programmer/</loc>
+    <lastmod>2023-12-01T06:10:34+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/having-the-right-mindset-as-a-programmer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/having-the-right-mindset-as-a-programmer/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/indonesian-game-developer-forums/</loc>
