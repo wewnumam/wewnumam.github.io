@@ -1,6 +1,7 @@
 ---
 title: "Memiliki Pola Pikir yang Benar sebagai Programmer"
 date: 2023-12-01T06:10:34Z
+tags: ["Game", "Career"]
 ---
 
 Hai kalian, terutama teman-teman game developer di kampus! Sudah memikirkan apa yang akan kalian lakukan setelah lulus? Sudah punya rencana? Apakah kalian tertarik menjadi programmer? Apa saja yang sudah kalian lakukan untuk mengembangkan kemampuan sebagai programmer, seperti membuat project atau rajin ngoding?

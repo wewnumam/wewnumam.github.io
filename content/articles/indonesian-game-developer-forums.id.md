@@ -1,6 +1,7 @@
 ---
 title: "Forum Game Developer Indonesia"
 date: 2023-07-08T01:27:43Z
+tags: ["Game", "Industry"]
 ---
 
 ## Asosiasi

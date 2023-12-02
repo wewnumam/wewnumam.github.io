@@ -1,6 +1,7 @@
 ---
 title: "Having the Right Mindset as a Programmer"
 date: 2023-12-01T06:10:29Z
+tags: ["Career"]
 ---
 
 Hi guys, especially my game developer friends on campus! Have you thought about what you will do after graduation? Do you have a plan? Are you interested in becoming a programmer? What have you done to develop your skills as a programmer, such as creating projects or diligently coding?
