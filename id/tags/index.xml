@@ -10,13 +10,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 01 Dec 2023 06:10:34 +0000</lastBuildDate><atom:link href="https://wewnumam.github.io/id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Dec 2023 03:11:29 +0000</lastBuildDate><atom:link href="https://wewnumam.github.io/id/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Career</title>
       <link>https://wewnumam.github.io/id/tags/career/</link>
-      <pubDate>Fri, 01 Dec 2023 06:10:34 +0000</pubDate>
+      <pubDate>Mon, 11 Dec 2023 03:11:29 +0000</pubDate>
       
       <guid>https://wewnumam.github.io/id/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>College</title>
+      <link>https://wewnumam.github.io/id/tags/college/</link>
+      <pubDate>Mon, 11 Dec 2023 03:11:29 +0000</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/tags/college/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry</title>
+      <link>https://wewnumam.github.io/id/tags/industry/</link>
+      <pubDate>Mon, 11 Dec 2023 03:11:29 +0000</pubDate>
+      
+      <guid>https://wewnumam.github.io/id/tags/industry/</guid>
       <description></description>
     </item>
     
@@ -26,15 +44,6 @@
       <pubDate>Fri, 01 Dec 2023 06:10:34 +0000</pubDate>
       
       <guid>https://wewnumam.github.io/id/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Industry</title>
-      <link>https://wewnumam.github.io/id/tags/industry/</link>
-      <pubDate>Sat, 08 Jul 2023 01:27:43 +0000</pubDate>
-      
-      <guid>https://wewnumam.github.io/id/tags/industry/</guid>
       <description></description>
     </item>
     
@@ -62,15 +71,6 @@
       <pubDate>Sun, 28 May 2023 03:23:27 +0000</pubDate>
       
       <guid>https://wewnumam.github.io/id/tags/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>College</title>
-      <link>https://wewnumam.github.io/id/tags/college/</link>
-      <pubDate>Tue, 03 Jan 2023 22:40:57 +0000</pubDate>
-      
-      <guid>https://wewnumam.github.io/id/tags/college/</guid>
       <description></description>
     </item>
     

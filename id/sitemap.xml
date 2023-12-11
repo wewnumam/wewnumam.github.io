@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wewnumam.github.io/id/</loc>
-    <lastmod>2023-12-01T06:10:34+00:00</lastmod>
+    <lastmod>2023-12-11T03:11:29+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/</loc>
-    <lastmod>2023-12-01T06:10:34+00:00</lastmod>
+    <lastmod>2023-12-11T03:11:29+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/career/</loc>
-    <lastmod>2023-12-01T06:10:34+00:00</lastmod>
+    <lastmod>2023-12-11T03:11:29+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +39,58 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/tags/career/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/college/</loc>
+    <lastmod>2023-12-11T03:11:29+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/college/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/college/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/industry/</loc>
+    <lastmod>2023-12-11T03:11:29+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/industry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/industry/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/gametech-stmm-mmtc-graduate-profile/</loc>
+    <lastmod>2023-12-11T03:11:29+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/gametech-stmm-mmtc-graduate-profile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/gametech-stmm-mmtc-graduate-profile/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/</loc>
+    <lastmod>2023-12-11T03:11:29+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/game/</loc>
@@ -67,19 +119,6 @@
                 href="https://wewnumam.github.io/id/articles/having-the-right-mindset-as-a-programmer/"
                 />
   </url><url>
-    <loc>https://wewnumam.github.io/id/tags/</loc>
-    <lastmod>2023-12-01T06:10:34+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/"
-                />
-  </url><url>
     <loc>https://wewnumam.github.io/id/articles/indonesian-game-developer-forums/</loc>
     <lastmod>2023-07-08T01:27:43+00:00</lastmod>
     <xhtml:link
@@ -91,19 +130,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/articles/indonesian-game-developer-forums/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/tags/industry/</loc>
-    <lastmod>2023-07-08T01:27:43+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/industry/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/industry/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/game-design/</loc>
@@ -195,19 +221,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/articles/how-to-run-your-first-playtest/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/tags/college/</loc>
-    <lastmod>2023-01-03T22:40:57+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/college/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/college/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/why-do-people-play-games/</loc>
