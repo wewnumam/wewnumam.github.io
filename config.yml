@@ -1,6 +1,7 @@
 baseURL: https://wewnumam.github.io/
 title: Ahmad Adillaumam
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 disqusShortname: https-wewnumam-github-io
 defaultContentLanguage: en
@@ -124,15 +125,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: https://github.githubassets.com/favicons/favicon.png
-    favicon16x16: https://github.githubassets.com/favicons/favicon.png
-    favicon32x32: https://github.githubassets.com/favicons/favicon.png
-    apple_touch_icon: https://github.githubassets.com/favicons/favicon.png
-    safari_pinned_tab: https://github.githubassets.com/favicons/favicon.png
+    favicon: /favicon.png
+    favicon16x16: /favicon.png
+    favicon32x32: /favicon.png
+    apple_touch_icon: /favicon.png
+    safari_pinned_tab: /favicon.png
 
   label:
     text: Ahmad Adillaumam
-    icon: https://github.githubassets.com/favicons/favicon.png
+    icon: /favicon.png
     iconHeight: 35
 
   # profile-mode
