@@ -5,10 +5,12 @@
     <link>https://wewnumam.github.io/id/categories/</link>
     <description>Recent content in Categories on Ahmad Adillaumam</description>
     <image>
+      <title>Ahmad Adillaumam</title>
       <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>id</language><atom:link href="https://wewnumam.github.io/id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.146.7</generator>
+    <language>id</language>
+    <atom:link href="https://wewnumam.github.io/id/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

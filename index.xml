@@ -5,231 +5,644 @@
     <link>https://wewnumam.github.io/</link>
     <description>Recent content on Ahmad Adillaumam</description>
     <image>
+      <title>Ahmad Adillaumam</title>
       <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Dec 2023 03:11:29 +0000</lastBuildDate><atom:link href="https://wewnumam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Apr 2025 17:25:26 +0700</lastBuildDate>
+    <atom:link href="https://wewnumam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Freelance Web Dev Roadmap</title>
+      <link>https://wewnumam.github.io/articles/freelance-web-dev-roadmap/</link>
+      <pubDate>Thu, 24 Apr 2025 17:25:26 +0700</pubDate>
+      <guid>https://wewnumam.github.io/articles/freelance-web-dev-roadmap/</guid>
+      <description>&lt;h1 id=&#34;step-1-gain-skillset&#34;&gt;Step 1: Gain Skillset&lt;/h1&gt;
+&lt;p&gt;There ara different types of freelancers. The first step is to figure out where you will start and then learn the technologies needed.&lt;/p&gt;
+&lt;h2 id=&#34;types-of-freelancers--project-scope&#34;&gt;Types of Freelancers &amp;amp; Project Scope&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Types of Freelancers&lt;/th&gt;
+          &lt;th&gt;Scope&lt;/th&gt;
+          &lt;th&gt;Tech Stack&lt;/th&gt;
+          &lt;th&gt;Pricing&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Basic Web Developer/Designer&lt;/td&gt;
+          &lt;td&gt;Simple static websites like landing pages, small blogs, portfolios, etc&lt;/td&gt;
+          &lt;td&gt;HTML, CSS, JS, Tailwind&lt;/td&gt;
+          &lt;td&gt;Low&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CMS-Based Web Developer&lt;/td&gt;
+          &lt;td&gt;Customizable sites with Wordpress, Shopify&lt;br&gt;and other GUI tools + Custom Code&lt;/td&gt;
+          &lt;td&gt;Basic Web Technologies, Some PHP, Wordpress, Shopify, Webflow, Squarespace, etc&lt;/td&gt;
+          &lt;td&gt;Medium&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Full Stack Web Developer&lt;/td&gt;
+          &lt;td&gt;Builds more complex web apps using frontend and backend frameworks&lt;/td&gt;
+          &lt;td&gt;Tech Stack: JS frameworks, Node, PHP, Python, databases, ORMs, Jamstack, Headless CMS&lt;/td&gt;
+          &lt;td&gt;High&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Niche Developer&lt;/td&gt;
+          &lt;td&gt;Specializes in an area like eCommerce, SaaS, 3D &amp;amp; Animation, AI/ML, etc&lt;/td&gt;
+          &lt;td&gt;Varies&lt;/td&gt;
+          &lt;td&gt;Very High&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;web-development-fundamentals&#34;&gt;Web Development Fundamentals&lt;/h2&gt;
+&lt;p&gt;Web development fundamentals you should be learned no mater which route you take:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gametech STMM MMTC Graduate Profile</title>
       <link>https://wewnumam.github.io/articles/gametech-stmm-mmtc-graduate-profile/</link>
       <pubDate>Mon, 11 Dec 2023 03:11:29 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/gametech-stmm-mmtc-graduate-profile/</guid>
-      <description>Data Source:
-https://docs.google.com/spreadsheets/d/e/2PACX-1vTYmi8HLvPPIhFxOu00NLTWU-R37X7oWtyQbvIeEkO9sJ_P8_C6mFJ6cRJbr_-k1WgoXFtxcmPa0bF5/pubhtml</description>
+      <description>&lt;iframe width=&#34;600&#34; height=&#34;371&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTYmi8HLvPPIhFxOu00NLTWU-R37X7oWtyQbvIeEkO9sJ_P8_C6mFJ6cRJbr_-k1WgoXFtxcmPa0bF5/pubchart?oid=107174344&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;600&#34; height=&#34;371&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTYmi8HLvPPIhFxOu00NLTWU-R37X7oWtyQbvIeEkO9sJ_P8_C6mFJ6cRJbr_-k1WgoXFtxcmPa0bF5/pubchart?oid=1647458298&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;600&#34; height=&#34;371&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTYmi8HLvPPIhFxOu00NLTWU-R37X7oWtyQbvIeEkO9sJ_P8_C6mFJ6cRJbr_-k1WgoXFtxcmPa0bF5/pubchart?oid=1990046861&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;600&#34; height=&#34;371&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTYmi8HLvPPIhFxOu00NLTWU-R37X7oWtyQbvIeEkO9sJ_P8_C6mFJ6cRJbr_-k1WgoXFtxcmPa0bF5/pubchart?oid=1005661680&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;600&#34; height=&#34;371&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTYmi8HLvPPIhFxOu00NLTWU-R37X7oWtyQbvIeEkO9sJ_P8_C6mFJ6cRJbr_-k1WgoXFtxcmPa0bF5/pubchart?oid=954510094&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;600&#34; height=&#34;371&#34; seamless frameborder=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTYmi8HLvPPIhFxOu00NLTWU-R37X7oWtyQbvIeEkO9sJ_P8_C6mFJ6cRJbr_-k1WgoXFtxcmPa0bF5/pubchart?oid=852257893&amp;amp;format=interactive&#34;&gt;&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;p&gt;Data Source:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTYmi8HLvPPIhFxOu00NLTWU-R37X7oWtyQbvIeEkO9sJ_P8_C6mFJ6cRJbr_-k1WgoXFtxcmPa0bF5/pubhtml&#34;&gt;https://docs.google.com/spreadsheets/d/e/2PACX-1vTYmi8HLvPPIhFxOu00NLTWU-R37X7oWtyQbvIeEkO9sJ_P8_C6mFJ6cRJbr_-k1WgoXFtxcmPa0bF5/pubhtml&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Having the Right Mindset as a Programmer</title>
       <link>https://wewnumam.github.io/articles/having-the-right-mindset-as-a-programmer/</link>
       <pubDate>Fri, 01 Dec 2023 06:10:29 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/having-the-right-mindset-as-a-programmer/</guid>
-      <description>Hi guys, especially my game developer friends on campus! Have you thought about what you will do after graduation? Do you have a plan? Are you interested in becoming a programmer? What have you done to develop your skills as a programmer, such as creating projects or diligently coding?
-However, the question is, is that enough? With your current skills, who would want to hire you? There are hundreds or thousands of people with similar skills, so what makes you irreplaceable?</description>
+      <description>&lt;p&gt;Hi guys, especially my game developer friends on campus! Have you thought about what you will do after graduation? Do you have a plan? Are you interested in becoming a programmer? What have you done to develop your skills as a programmer, such as creating projects or diligently coding?&lt;/p&gt;
+&lt;p&gt;However, the question is, is that enough? With your current skills, who would want to hire you? There are hundreds or thousands of people with similar skills, so what makes you irreplaceable? Where is your uniqueness?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Indonesian Game Developer Forums</title>
       <link>https://wewnumam.github.io/articles/indonesian-game-developer-forums/</link>
       <pubDate>Sat, 08 Jul 2023 01:27:43 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/indonesian-game-developer-forums/</guid>
-      <description>Assosiation Asosiasi Game Indonesia (AGI) Asosiasi Game Indonesia (AGI) is an organisation whose aim is to accelerate the growth of the Indonesian video game industry. Indie Games Group Indonesia (IGGI) A virtual community for Game Developers in Indonesia that aims to connect GameDevs at all levels. IGDA Indonesia The International Game Developers Association (IGDA) is the world’s largest nonprofit membership organization serving all individuals who create games. General Community Game Developer ID GameDeveloper.</description>
+      <description>&lt;h2 id=&#34;assosiation&#34;&gt;Assosiation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;asosiasi-game-indonesia-agi&#34;&gt;Asosiasi Game Indonesia (AGI)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Asosiasi Game Indonesia (AGI) is an organisation whose aim is to accelerate the growth of the Indonesian video game industry.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.agi.or.id/&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=agi.or.id&amp;style=flat-square&amp;url=https://www.agi.or.id/&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://facebook.com/AsosiasiGameIndonesia&#34;&gt;&lt;img alt=&#34;Facebook&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-AsosiasiGameIndonesia-1877F2?logo=facebook&amp;style=flat-squar&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/asosiasigame_id/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@asosiasigame__id-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/intent/follow?screen_name=asosiasigame_id&#34;&gt;&lt;img alt=&#34;Twitter&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@asosiasigame__id-1D9BF0?logo=twitter&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/A9AhF5y&#34;&gt;&lt;img alt=&#34;Discord&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/discord/475157694660214795?link=https://discord.gg/A9AhF5y&amp;logo=discord&amp;style=flat-square&amp;label=https://discord.gg/A9AhF5y&amp;color=5865F2&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCkPjm808TGpr_d7jMp7jeig&#34;&gt;&lt;img alt=&#34;Youtube&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/youtube/channel/subscribers/UCkPjm808TGpr_d7jMp7jeig?logo=youtube&amp;style=flat-square&amp;label=@AsosiasiGameIndonesia&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;indie-games-group-indonesia-iggi&#34;&gt;Indie Games Group Indonesia (IGGI)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A virtual community for Game Developers in Indonesia that aims to connect GameDevs at all levels.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linktr.ee/igg.indonesia&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=linktr.ee/igg.indonesia&amp;style=flat-square&amp;url=https://linktr.ee/igg.indonesia&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/iggindonesia&#34;&gt;&lt;img alt=&#34;Facebook&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-iggindonesia-1877F2?logo=facebook&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://instagram.com/igg_indonesia&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@igg_indonesia-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/intent/follow?screen_name=igg_indonesia&#34;&gt;&lt;img alt=&#34;Twitter&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@igg_indonesia-1D9BF0?logo=twitter&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/igg-indonesia&#34;&gt;&lt;img alt=&#34;Discord&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/discord/930459320800399390?logo=discord&amp;style=flat-square&amp;label=discord.gg/igg-indonesia&amp;color=5865F2&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCV7k0V1mNVLIiAvnqQUnCMQ&#34;&gt;&lt;img alt=&#34;Youtube&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/youtube/channel/subscribers/UCV7k0V1mNVLIiAvnqQUnCMQ?logo=youtube&amp;style=flat-square&amp;label=@indiegamesgroupindonesia&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;igda-indonesia&#34;&gt;IGDA Indonesia&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The International Game Developers Association (IGDA) is the world’s largest nonprofit membership organization serving all individuals who create games.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linktr.ee/IGDAIndonesia&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=linktr.ee/IGDAIndonesia&amp;style=flat-square&amp;url=https://linktr.ee/IGDAIndonesia&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://igda.org/chapters/indonesia/&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=igda.org/chapters/indonesia/&amp;style=flat-square&amp;url=https://igda.org/chapters/indonesia/&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://instagram.com/indonesiaigda&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@indonesiaigda-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/T6XqRSgrSy&#34;&gt;&lt;img alt=&#34;Discord&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/discord/894575538071552032?logo=discord&amp;style=flat-square&amp;label=discord.gg/T6XqRSgrSy&amp;color=5865F2&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;general-community&#34;&gt;General Community&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-id&#34;&gt;Game Developer ID&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GameDeveloper.ID is an initiative to gather various resources related to game development information in Indonesia that have been scattered and separated on various social media platforms, especially after the disappearance of the gamedevid.org forum.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gamedeveloper.id&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=gamedeveloper.id&amp;style=flat-square&amp;url=https://gamedeveloper.id&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/gamedevid/&#34;&gt;&lt;img alt=&#34;Facebook&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/join-gamedevid-1877F2?logo=facebook&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/fjBbJwS&amp;amp;&#34;&gt;&lt;img alt=&#34;Discord&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/discord/226382376555511809?logo=discord&amp;style=flat-square&amp;label=discord.gg/fjBbJwS&amp;color=5865F2&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;selasar-game-design&#34;&gt;Selasar Game Design&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Selasar Game Design (SGD) is a community to gather and learn Game Design for anyone across Indonesia.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://instagram.com/selasargamedesign&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@selasargamedesign-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/84yDbnS5nn&#34;&gt;&lt;img alt=&#34;Discord&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/discord/1096456366199160852?logo=discord&amp;style=flat-square&amp;label=discord.gg/84yDbnS5nn&amp;color=5865F2&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;candela-imagine&#34;&gt;Candela Imagine&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Indonesian Game Industry Agency co-publishing.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://candelaimagine.com&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=candelaimagine.com&amp;style=flat-square&amp;url=https://candelaimagine.com&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://instagram.com/candela.imagine_id&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@candela.imagine_id-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discord.gg/hw7F8vG3t3&#34;&gt;&lt;img alt=&#34;Discord&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/discord/649590305619705887?logo=discord&amp;style=flat-square&amp;label=discord.gg/hw7F8vG3t3&amp;color=5865F2&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;unity-3d-developers-indonesia&#34;&gt;UNITY 3D Developers Indonesia&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/UNITY3D.INDONESIAN.GAME.DEVELOPERS/&#34;&gt;&lt;img alt=&#34;Facebook&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/join-UNITY3D.INDONESIAN.GAME.DEVELOPERS-1877F2?logo=facebook&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;godot-engine-indonesia&#34;&gt;Godot Engine Indonesia&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/godotindonesia/&#34;&gt;&lt;img alt=&#34;Facebook&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/join-godotindonesia-1877F2?logo=facebook&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;unreal-developers-indonesia&#34;&gt;Unreal Developers Indonesia&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/unrealdev.id/&#34;&gt;&lt;img alt=&#34;Facebook&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/join-unrealdev.id-1877F2?logo=facebook&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;rpg-maker-mv--vx--vx-ace--xp&#34;&gt;RPG Maker MV / VX / VX Ace / XP&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/rpgmakervx.ace.xp/&#34;&gt;&lt;img alt=&#34;Facebook&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/join-rpgmakervx.ace.xp-1877F2?logo=facebook&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;construct-2--3---tutorial-indonesia&#34;&gt;Construct 2 &amp;amp; 3 - Tutorial Indonesia&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/constructindo/&#34;&gt;&lt;img alt=&#34;Facebook&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/join-constructindo-1877F2?logo=facebook&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;regional-community&#34;&gt;Regional Community&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;gamelan&#34;&gt;GameLan&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://instagram.com/gamelan.yk&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gamelan.yk-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/GamelanYK&#34;&gt;&lt;img alt=&#34;Facebook&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-GamelanYK-1877F2?logo=facebook&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-batam&#34;&gt;Game Developer Batam&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://linktr.ee/GameDeveloperBatam&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=linktr.ee/GameDeveloperBatam&amp;style=flat-square&amp;url=https://linktr.ee/GameDeveloperBatam&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://instagram.com/gdb.community&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gdb.community-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@gamedeveloperbatam2964&#34;&gt;&lt;img alt=&#34;Youtube&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/youtube/channel/subscribers/UC8Tw5uio66JSGL6_5SbE5_g?logo=youtube&amp;style=flat-square&amp;label=@gamedeveloperbatam2964&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-bandung&#34;&gt;Game Developer Bandung&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/gamedevbandung/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gamedevbandung-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-bogor&#34;&gt;Game Developer Bogor&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/gamedevbogor/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gamedevbogor-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-tanggerang&#34;&gt;Game Developer Tanggerang&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/gamedevtangerang/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gamedevtangerang-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-malang&#34;&gt;Game Developer Malang&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/gamedevmalang/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gamedevmalang-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-palembang&#34;&gt;Game Developer Palembang&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/gamedevpalembang/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gamedevpalembang-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-solo&#34;&gt;Game Developer Solo&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/gamedevsolo/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gamedevsolo-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-surabaya&#34;&gt;Game Developer Surabaya&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/gamedevsby/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gamedevsby-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-bekasi&#34;&gt;Game Developer Bekasi&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/gamedevbekasi/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gamedevbekasi-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-bali&#34;&gt;Game Developer Bali&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/gamedevbali/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gamedevbali-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-surabaya-1&#34;&gt;Game Developer Surabaya&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/gamedevsby/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@gamedevsby-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;the-lazy-monday&#34;&gt;The Lazy Monday&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/thelazymonday/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@thelazymonday-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@TheLazyMondayGaming&#34;&gt;&lt;img alt=&#34;Youtube&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/youtube/channel/subscribers/UCbb5TgzYFaLw0_QYxMvxDdg?logo=youtube&amp;style=flat-square&amp;label=@TheLazyMondayGaming&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;game-developer-id-1&#34;&gt;Game Developer ID&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gimid.dev&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=gimid.dev&amp;style=flat-square&amp;url=https://gimid.dev&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;formal-academy&#34;&gt;Formal Academy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;stmm-mmtc&#34;&gt;STMM MMTC&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mmtc.ac.id/index.php/menu/Menu/index/1085/Prodi%20Teknologi%20Permainan&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=mmtc.ac.id&amp;style=flat-square&amp;url=https://www.mmtc.ac.id&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;pens&#34;&gt;PENS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gametech.pens.ac.id&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=gametech.pens.ac.id&amp;style=flat-square&amp;url=https://gametech.pens.ac.id&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;binus&#34;&gt;BINUS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://socs.binus.ac.id/game-application-and-technology-fix-2/&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=socs.binus.ac.id&amp;style=flat-square&amp;url=https://socs.binus.ac.id&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;vocational-academy&#34;&gt;Vocational Academy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;igdx&#34;&gt;IGDX&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://igdx.id&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=igdx.id&amp;style=flat-square&amp;url=https://igdx.id&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/igdx.id/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@igdx.id-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;agate-academy&#34;&gt;Agate Academy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://academy.agate.id&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=academy.agate.id&amp;style=flat-square&amp;url=https://academy.agate.id&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linktr.ee/agate.academy.id&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=linktr.ee/agate.academy.id&amp;style=flat-square&amp;url=https://linktr.ee/agate.academy.id&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/agate.academy.id/&#34;&gt;&lt;img alt=&#34;Instagram&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/badge/follow-@agate.academy.id-E4405F?logo=instagram&amp;style=flat-square&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;miracle-academy&#34;&gt;Miracle Academy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://academy.miraclegates.com&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=academy.miraclegates.com&amp;style=flat-square&amp;url=https://academy.miraclegates.com&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;gamelab-academy&#34;&gt;Gamelab Academy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gamelab.id&#34;&gt;&lt;img alt=&#34;Website&#34; loading=&#34;lazy&#34; src=&#34;https://img.shields.io/website?label=gamelab.id&amp;style=flat-square&amp;url=https://www.gamelab.id&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Understanding Publisher Expectations for Your Game Pitch</title>
       <link>https://wewnumam.github.io/articles/understanding-publisher-expectations-for-your-game-pitch/</link>
       <pubDate>Sun, 25 Jun 2023 23:07:47 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/understanding-publisher-expectations-for-your-game-pitch/</guid>
-      <description>When presenting your game to publishers, the primary objective of your pitch is to effectively communicate your game and convince stakeholders of its grand vision. Understanding the types of game pitch decks and the key components that publishers expect can significantly enhance your chances of securing their interest and support.
-Types of Game Pitch Decks: Presenting pitch deck: This type of pitch is used for direct presentations to individuals or groups and should be concise and straightforward.</description>
+      <description>&lt;p&gt;When presenting your game to publishers, the primary objective of your pitch is to effectively communicate your game and convince stakeholders of its grand vision. Understanding the types of game pitch decks and the key components that publishers expect can significantly enhance your chances of securing their interest and support.&lt;/p&gt;
+&lt;h2 id=&#34;types-of-game-pitch-decks&#34;&gt;Types of Game Pitch Decks:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Presenting pitch deck:&lt;/strong&gt; This type of pitch is used for direct presentations to individuals or groups and should be concise and straightforward.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sent-out pitch deck&lt;/strong&gt;: This pitch is indirectly sent via email and should provide more extensive information to compensate for the absence of direct interaction.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;key-components-of-a-game-pitch&#34;&gt;Key Components of a Game Pitch:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Game Summary:&lt;/strong&gt; This section should contain the game&amp;rsquo;s concept, game design elements, and sample artwork. It serves as a snapshot of what your game is all about.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost, Opportunities, and Production Roadmap:&lt;/strong&gt; This component outlines the potential profitability, marketing strategies, key milestones, and budget allocation for the game&amp;rsquo;s production.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team Profile:&lt;/strong&gt; Highlight the achievements or relevant portfolio of your team members to showcase their expertise and experience.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;pro-tips&#34;&gt;Pro Tips:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Unique Game Concept and Market Potential:&lt;/strong&gt; Publishers are more likely to engage with games that offer unique experiences, although they also bear higher risks. Publishers will be interested in your game if it has a market demand.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Understand Player Motivation:&lt;/strong&gt; Clearly explain the objectives and factors that will captivate players. What makes your game compelling and attractive?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Showcase Engaging Game Art:&lt;/strong&gt; Include the best key points of your game art to convey the vibe and visual appeal of your game.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Know Your Market Position:&lt;/strong&gt; Understand the competitive landscape and highlight how your game stands out within the market of similar games. Ensure it is advantageous.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Committed Development Team:&lt;/strong&gt; Demonstrate that you have a dedicated full-time development team committed to your game project.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;basic-rule-of-thumb&#34;&gt;Basic Rule of Thumb:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Grab Attention Early:&lt;/strong&gt; Ensure the most captivating aspects of your game are presented within the first 1-2 minutes of your pitch to capture the publisher&amp;rsquo;s interest.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emphasize Fun and Appeal:&lt;/strong&gt; Clearly explain why your game is fun and what makes it appealing to players.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Appropriate Scope and Pricing:&lt;/strong&gt; Convince publishers that your game has a suitable scope and reasonable pricing by explaining the costs and opportunities involved.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Highlight Team Achievements:&lt;/strong&gt; Introduce the track record and accomplishments of your team members to establish their capability to deliver the game.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion:&lt;/h2&gt;
+&lt;p&gt;Crafting an effective game pitch requires careful attention to the expectations of publishers. By incorporating the suggested components and adhering to the provided tips, you can enhance your chances of successfully pitching your game and securing the support of a publisher. Remember, a compelling pitch can significantly impact the trajectory of your game&amp;rsquo;s development and success in the competitive gaming industry.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Having the Right Mindset to Survive in the Game Industry</title>
       <link>https://wewnumam.github.io/articles/having-the-right-mindset-to-survive-in-the-game-industry/</link>
       <pubDate>Fri, 02 Jun 2023 06:01:16 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/having-the-right-mindset-to-survive-in-the-game-industry/</guid>
-      <description>The game industry is a challenging and complex field, and having the right mindset is crucial for survival and success. It&amp;rsquo;s important to have clear goals and start by giving our maximum effort, even if it seems small.
-Here are some key mindsets to cultivate in order to thrive in the game industry:
-Technical skills are not enough While technical skills are important, they alone are not sufficient to make a living or build a career in the game industry.</description>
+      <description>&lt;p&gt;The game industry is a challenging and complex field, and having the right mindset is crucial for survival and success. It&amp;rsquo;s important to have clear goals and start by giving our maximum effort, even if it seems small.&lt;/p&gt;
+&lt;p&gt;Here are some key mindsets to cultivate in order to thrive in the game industry:&lt;/p&gt;
+&lt;h3 id=&#34;technical-skills-are-not-enough&#34;&gt;Technical skills are not enough&lt;/h3&gt;
+&lt;p&gt;While technical skills are important, they alone are not sufficient to make a living or build a career in the game industry. It requires a multidisciplinary approach and a combination of technical, artistic, and business skills.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Gameseed Roadshow Key Points</title>
       <link>https://wewnumam.github.io/articles/gameseed-roadshow-key-points/</link>
       <pubDate>Sun, 28 May 2023 03:23:27 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/gameseed-roadshow-key-points/</guid>
-      <description>Adam Ardisasmita The gaming industry&amp;rsquo;s revenue and export numbers are much larger than other entertainment/content industries (music, movies, etc.). Mobile games account for 45% in 2021 and 53% in 2022 of the global gaming market. Indonesians spend 25 trillion rupiah a year on games, mostly to get items that increase social strata in games. Challenges of the gaming industry in Indonesia: the comparison between the spending of Indonesian gamers on games and the income of Indonesian game developers is still very far (1000:1).</description>
+      <description>&lt;h2 id=&#34;adam-ardisasmita&#34;&gt;Adam Ardisasmita&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xoeit2NdiHA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The gaming industry&amp;rsquo;s revenue and export numbers are much larger than other entertainment/content industries (music, movies, etc.).&lt;/li&gt;
+&lt;li&gt;Mobile games account for 45% in 2021 and 53% in 2022 of the global gaming market.&lt;/li&gt;
+&lt;li&gt;Indonesians spend 25 trillion rupiah a year on games, mostly to get items that increase social strata in games.&lt;/li&gt;
+&lt;li&gt;Challenges of the gaming industry in Indonesia: the comparison between the spending of Indonesian gamers on games and the income of Indonesian game developers is still very far (1000:1).&lt;/li&gt;
+&lt;li&gt;Obstacles in making games: lack of funds (66.7%), lack of human resources (44.4%), lack of skills (36.1%), others (26.4%).&lt;/li&gt;
+&lt;li&gt;Why there are few successful local game developers in Indonesia: Business Model; Market Visibility; Access To Funding.&lt;/li&gt;
+&lt;li&gt;Business model challenges: premium (sales conversion &amp;amp; product experience) and freemium (live ops &amp;amp; reading data)&lt;/li&gt;
+&lt;li&gt;Market visibility challenge: pc gamers are more open to games with similar genres while mobile gamers tend to be enthusiastic about 1 game only. Longer life time and limited storage space make mobile gamers rarely look for other games in the same genre.&lt;/li&gt;
+&lt;li&gt;Access to funding challenges: premium (market similar to publisher) and freemium (market validation before funding).&lt;/li&gt;
+&lt;li&gt;Trends in mobile games: Game as a Service (live service and in-app purchase) revenue is greater than full game.&lt;/li&gt;
+&lt;li&gt;Trends in game purchasing power in developing countries: very sensitive to price, micro-transactions are more suitable than one-time purchases.&lt;/li&gt;
+&lt;li&gt;Pay attention to the development of cloud gaming and subscription based model.&lt;/li&gt;
+&lt;li&gt;Other strategies that can be taken: capitalize on viral trends, local wisdom, niche markets.&lt;/li&gt;
+&lt;li&gt;In terms of revenue, it makes more sense to target the global market, but in the local market, we know the market better, so competition is easier.&lt;/li&gt;
+&lt;li&gt;Relatibility is a challenge when promoting local wisdom, the unique selling point must be generally accepted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Game trends are changing, all market segments need games, make sure to test games to the right target market.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to Run Your First Playtest</title>
       <link>https://wewnumam.github.io/articles/how-to-run-your-first-playtest/</link>
       <pubDate>Tue, 17 Jan 2023 21:54:08 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/how-to-run-your-first-playtest/</guid>
-      <description>To run your first playtest, it&amp;rsquo;s important to have a clear understanding of your target audience and the type of game you&amp;rsquo;re creating. This will help you to choose the right group of playtesters and create a test scenario that closely simulates the final product.
-Before the playtest, prepare a list of questions that you want to ask your playtesters, and set up a system for collecting feedback. This can be done through a survey or through verbal feedback during the playtest.</description>
+      <description>&lt;p&gt;To run your first playtest, it&amp;rsquo;s important to have a clear understanding of your target audience and the type of game you&amp;rsquo;re creating. This will help you to choose the right group of playtesters and create a test scenario that closely simulates the final product.&lt;/p&gt;
+&lt;p&gt;Before the playtest, prepare a list of questions that you want to ask your playtesters, and set up a system for collecting feedback. This can be done through a survey or through verbal feedback during the playtest. Additionally, make sure you have all the necessary materials and equipment ready, such as game boards, cards, dice, and any other components that are needed for the game.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Why Do People Play Games</title>
       <link>https://wewnumam.github.io/articles/why-do-people-play-games/</link>
       <pubDate>Tue, 03 Jan 2023 22:40:46 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/why-do-people-play-games/</guid>
-      <description>According to a study, people play games for a variety of reasons, including the opportunity to structure and change their internal experiences. Many adults enjoy the chance to fill their heads with thoughts and emotions unrelated to work or school, while others are drawn to the challenge and opportunity to test their abilities. Games offer a sense of efficiency and order that may be lacking in everyday life, and can provide a sense of excitement and relaxation.</description>
+      <description>&lt;p&gt;According to a study, people play games for a variety of reasons, including the opportunity to structure and change their internal experiences. Many adults enjoy the chance to fill their heads with thoughts and emotions unrelated to work or school, while others are drawn to the challenge and opportunity to test their abilities. Games offer a sense of efficiency and order that may be lacking in everyday life, and can provide a sense of excitement and relaxation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Making Money From Games</title>
       <link>https://wewnumam.github.io/articles/making-money-from-games/</link>
       <pubDate>Mon, 02 Jan 2023 01:11:08 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/making-money-from-games/</guid>
-      <description>There are many ways to make money from games, whether as a developer selling homemade games, a streamer entertaining an audience, or a player trading in-game items. In this article, we will explore five different ways to monetize the passion for gaming and turn it into a profitable venture. From developing and selling homemade games to offering gaming-related services, there are many opportunities to make money in the gaming industry.</description>
+      <description>&lt;p&gt;There are many ways to make money from games, whether as a developer selling homemade games, a streamer entertaining an audience, or a player trading in-game items. In this article, we will explore five different ways to monetize the passion for gaming and turn it into a profitable venture. From developing and selling homemade games to offering gaming-related services, there are many opportunities to make money in the gaming industry.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>5 Tips for Writing Clear and Concise Git Commit Messages</title>
       <link>https://wewnumam.github.io/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</link>
       <pubDate>Sun, 01 Jan 2023 05:27:25 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</guid>
-      <description>Writing good commit messages is an important practice that can help other people understand the changes that you have made and why. Here are some tips for writing better commit messages:
-Use a clear and descriptive subject line The first line of the commit message should be a short and concise summary of the changes that you have made. Keep it to around 50 characters or less. This will help other developers quickly understand the changes that you have made.</description>
+      <description>&lt;p&gt;Writing good commit messages is an important practice that can help other people understand the changes that you have made and why. Here are some tips for writing better commit messages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;use-a-clear-and-descriptive-subject-line&#34;&gt;Use a clear and descriptive subject line&lt;/h2&gt;
+&lt;p&gt;The first line of the commit message should be a short and concise summary of the changes that you have made. Keep it to around 50 characters or less. This will help other developers quickly understand the changes that you have made.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>5 Tips for Creating Clean Code</title>
       <link>https://wewnumam.github.io/articles/5-tips-for-creating-clean-code/</link>
       <pubDate>Thu, 29 Dec 2022 05:39:10 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/5-tips-for-creating-clean-code/</guid>
-      <description>Clean code is code that is easy to read, understand, and maintain. It follows a set of coding standards and principles that aim to make the code as readable and maintainable as possible.
-Clean code is important because it helps reduce the time and effort required to understand and modify the codebase, and it makes it easier to add new features or fix bugs. It also promotes collaboration and reduces the risk of introducing new issues when modifying the code.</description>
+      <description>&lt;p&gt;Clean code is code that is easy to read, understand, and maintain. It follows a set of coding standards and principles that aim to make the code as readable and maintainable as possible.&lt;/p&gt;
+&lt;p&gt;Clean code is important because it helps reduce the time and effort required to understand and modify the codebase, and it makes it easier to add new features or fix bugs. It also promotes collaboration and reduces the risk of introducing new issues when modifying the code.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Top 10 Game Designer Mistakes</title>
       <link>https://wewnumam.github.io/articles/top-10-game-designer-mistakes/</link>
       <pubDate>Tue, 27 Dec 2022 19:11:18 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/top-10-game-designer-mistakes/</guid>
-      <description>As a game designer, it&amp;rsquo;s important to be aware of common pitfalls and mistakes that can hinder the success of your projects. By avoiding these mistakes, you can increase your chances of creating successful and enjoyable games that players will love. Here are the top 10 mistakes game designers should avoid:
-Huge Project without Portfolio Starting with a large, ambitious project without a portfolio of smaller, completed games can be risky.</description>
+      <description>&lt;p&gt;As a game designer, it&amp;rsquo;s important to be aware of common pitfalls and mistakes that can hinder the success of your projects. By avoiding these mistakes, you can increase your chances of creating successful and enjoyable games that players will love. Here are the top 10 mistakes game designers should avoid:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;huge-project-without-portfolio&#34;&gt;Huge Project without Portfolio&lt;/h2&gt;
+&lt;p&gt;Starting with a large, ambitious project without a portfolio of smaller, completed games can be risky. It&amp;rsquo;s important to build a portfolio of completed projects to showcase your skills and capabilities before tackling a larger project. A portfolio can also help you demonstrate your ability to complete projects and can be used to attract funding or partners for larger projects.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Purpose of Games</title>
       <link>https://wewnumam.github.io/articles/the-purpose-of-games/</link>
       <pubDate>Sat, 24 Dec 2022 05:49:40 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/the-purpose-of-games/</guid>
-      <description>Games serve many different purposes and can be enjoyed for a variety of reasons. Some people play games as a form of entertainment, to pass the time, or to socialize with friends and family. Others play games to challenge themselves or to improve their skills in a particular area. Still others play games as a way to relax and destress after a long day.
-Purposes for games in different contexts:</description>
+      <description>&lt;p&gt;Games serve many different purposes and can be enjoyed for a variety of reasons. Some people play games as a form of entertainment, to pass the time, or to socialize with friends and family. Others play games to challenge themselves or to improve their skills in a particular area. Still others play games as a way to relax and destress after a long day.&lt;/p&gt;
+&lt;p&gt;Purposes for games in different contexts:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Syntatic Sugars | C# Hidden Features</title>
       <link>https://wewnumam.github.io/articles/syntatic-sugars-csharp-hidden-features/</link>
       <pubDate>Thu, 22 Dec 2022 18:24:03 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/syntatic-sugars-csharp-hidden-features/</guid>
-      <description>Note:
-To be able to use these features we need at least C# version 7 and above or Unity 2018 and above.
-Ternary Operator In computer programming, the ternary conditional operator is a ternary operator that is part of the syntax for basic conditional expressions in several programming languages.It is commonly referred to as the conditional operator, ternary if, or inline if.
-An expression a ? b : c evaluates to b if the value of a is true, and otherwise to c.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To be able to use these features we need at least C# version 7 and above or Unity 2018 and above.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ternary-operator&#34;&gt;Ternary Operator&lt;/h2&gt;
+&lt;p&gt;In computer programming, the ternary conditional operator is a ternary operator that is part of the syntax for basic conditional expressions in several programming languages.It is commonly referred to as the conditional operator, ternary if, or inline if.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;An expression &lt;code&gt;a ? b : c&lt;/code&gt; evaluates to &lt;code&gt;b&lt;/code&gt; if the value of &lt;code&gt;a&lt;/code&gt; is true, and otherwise to &lt;code&gt;c&lt;/code&gt;. One can read it aloud as &amp;ldquo;&lt;em&gt;if a then b otherwise c&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>12 Easy Ways to Make Videos Significantly Better</title>
       <link>https://wewnumam.github.io/articles/12-easy-ways-to-make-videos-significantly-better/</link>
       <pubDate>Tue, 20 Dec 2022 10:38:43 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/12-easy-ways-to-make-videos-significantly-better/</guid>
-      <description>Think about Every Piece of the Picture When watching a video, we can only watch the direction of the camera. If the camera looks at the same thing for too long or is not looking at something the viewer wants to see, the viewer will get bored.
-Sporting events on TV are usually captured with a dozen to dozens of different cameras-every few seconds moving to a different image. And each image focuses on new information.</description>
+      <description>&lt;h2 id=&#34;think-about-every-piece-of-the-picture&#34;&gt;Think about Every Piece of the Picture&lt;/h2&gt;
+&lt;p&gt;When watching a video, we can only watch the direction of the camera. If the camera looks at the same thing for too long or is not looking at something the viewer wants to see, the viewer will get bored.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sporting events on TV are usually captured with a dozen to dozens of different cameras-every few seconds moving to a different image. And each image focuses on new information. Each image has meaning, and the cuts between them provide a lot of information without boring the audience.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Game Design Document Format for Academic Purposes</title>
       <link>https://wewnumam.github.io/articles/game-design-document-format-for-academic-purposes/</link>
       <pubDate>Mon, 19 Dec 2022 08:35:19 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/game-design-document-format-for-academic-purposes/</guid>
-      <description>Opening Page The cover page contains information including:
-Title. The title in the form of the words &amp;ldquo;Game Design Document&amp;rdquo; is needed to name the document so that at a glance people can imply what is meant in the document. Game Title. In the form of an attachment to the game name either in the form of a logo or any form that can be read. Genre and Game Mode. Contains information about the genre and game mode—such as online or offline mode, and single-player or multi-player mode—that will be used.</description>
+      <description>&lt;h2 id=&#34;opening-page&#34;&gt;Opening Page&lt;/h2&gt;
+&lt;p&gt;The cover page contains information including:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Title&lt;/strong&gt;. The title in the form of the words &amp;ldquo;&lt;em&gt;Game Design Document&lt;/em&gt;&amp;rdquo; is needed to name the document so that at a glance people can imply what is meant in the document.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Game Title&lt;/strong&gt;. In the form of an attachment to the game name either in the form of a logo or any form that can be read.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Genre and Game Mode&lt;/strong&gt;. Contains information about the genre and game mode—such as online or offline mode, and single-player or multi-player mode—that will be used.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stakeholders&lt;/strong&gt;. Includes the logo of the group, organization, and/or institution that oversees the game project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Copyright, Address, and Contact&lt;/strong&gt;. Contains copyright information, year of production, name of the organization responsible, work address, and contact email address.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Then the next page contains the table of contents of the document along with the page number.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Power of Variable Names</title>
       <link>https://wewnumam.github.io/articles/the-power-of-variable-names/</link>
       <pubDate>Fri, 16 Dec 2022 09:22:51 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/the-power-of-variable-names/</guid>
-      <description>Meaningful Variable Names Choosing good names takes time but saves more than it takes.
-Intention-Revealing Names The name should answer all big questions. It should tell you why it exists, what it does, and how it is used. If the name requires a comment, the name does not reveal the intent.
-let d; // elapsed time in days We should choose the name that specifies what is being measured and the unit of that measurement:</description>
+      <description>&lt;h2 id=&#34;meaningful-variable-names&#34;&gt;Meaningful Variable Names&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Choosing good names takes time but saves more than it takes.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;intention-revealing-names&#34;&gt;Intention-Revealing Names&lt;/h3&gt;
+&lt;p&gt;The name should answer all big questions. It should tell you why it exists, what it does, and how it is used. If the name requires a comment, the name does not reveal the intent.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;d&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// elapsed time in days
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;We should choose the name that specifies what is being measured and the unit of that measurement:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Basic Requirements of a Game</title>
       <link>https://wewnumam.github.io/articles/10-key-quality-of-games/</link>
       <pubDate>Wed, 14 Dec 2022 23:59:06 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/10-key-quality-of-games/</guid>
-      <description>Why is a game said to be a game?
-The answer is because it fulfills the key qualities of a game.
-There are at least 10 important quality keys in a game, according to Jesse Schell in his book The Art of Game Design.
-Games are played voluntarily (volunteer) There is no compulsion in playing a game. This means that the player has the control to freely join the game and leave the game.</description>
+      <description>&lt;p&gt;Why is a game said to be a game?&lt;/p&gt;
+&lt;p&gt;The answer is because it fulfills the key qualities of a game.&lt;/p&gt;
+&lt;p&gt;There are at least 10 important quality keys in a game, according to Jesse Schell in his book &lt;em&gt;The Art of Game Design&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;games-are-played-voluntarily-volunteer&#34;&gt;Games are played voluntarily (&lt;em&gt;volunteer&lt;/em&gt;)&lt;/h3&gt;
+&lt;p&gt;There is no compulsion in playing a game. This means that the player has the control to freely join the game and leave the game.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About Me</title>
       <link>https://wewnumam.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/about/</guid>
-      <description>📚 I love phylosophy.
-🧑‍💻 I&amp;rsquo;m presistent in software development.
-🏷 I create value from content and design.
-💻 People come to me for tech support.
-&amp;hellip;
-Still figuring out the intersection.
-Check out my Linktree to know me more!
-No bullshit quote. Just be clear about what we want need. ✌️</description>
+      <description>&lt;hr&gt;
+&lt;p&gt;📚 I love phylosophy.&lt;/p&gt;
+&lt;p&gt;🧑‍💻 I&amp;rsquo;m presistent in &lt;a href=&#34;https://wewnumam.github.io/ahmad-adillaumam-software-developer-resume/&#34;&gt;software development&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;🏷 I create value from content and &lt;a href=&#34;https://wewnumam.github.io/ahmad-adillaumam-designer-resume/&#34;&gt;design&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;💻 People come to me for tech support.&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Still figuring out the intersection.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Check out my &lt;a href=&#34;https://linktr.ee/adillaumam&#34;&gt;Linktree&lt;/a&gt; to know me more!&lt;/p&gt;
+&lt;p&gt;No bullshit quote. Just be clear about what we &lt;del&gt;want&lt;/del&gt; need. ✌️&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ahmad Adillaumam - Designer Resume</title>
       <link>https://wewnumam.github.io/ahmad-adillaumam-designer-resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/ahmad-adillaumam-designer-resume/</guid>
-      <description>🛠 Skills Board game and video game design. Graphic design: Logo. Print media: board game, poster, book cover, business card, packaging. Social media kit. Digital painting. Video production director. Video editor. 🕓 Experience Freelance Graphic Designer 🗓️ 2019 - PRESENT
-Designed poster, book cover, packaging design, and social media kit. Participated in logo design contest at sribu.com. Tools used: Inkscape, GIMP. Results obtained: People liked the minimalist design that I made.</description>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;-skills&#34;&gt;🛠 Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Board game and video game design.&lt;/li&gt;
+&lt;li&gt;Graphic design:
+&lt;ul&gt;
+&lt;li&gt;Logo.&lt;/li&gt;
+&lt;li&gt;Print media: board game, poster, book cover, business card, packaging.&lt;/li&gt;
+&lt;li&gt;Social media kit.&lt;/li&gt;
+&lt;li&gt;Digital painting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Video production director.&lt;/li&gt;
+&lt;li&gt;Video editor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-experience&#34;&gt;🕓 Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;freelance-graphic-designer&#34;&gt;Freelance Graphic Designer&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;🗓️ 2019 - PRESENT&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed &lt;a href=&#34;https://drive.google.com/drive/u/0/folders/12HNioqXGOC_0z7zbgbBa_hKSznKMcFya&#34;&gt;poster, book cover, packaging design, and social media kit&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Participated in &lt;a href=&#34;https://www.sribu.com/en/members/wvwnumam&#34;&gt;logo design contest at sribu.com&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Tools used: Inkscape, GIMP.&lt;/li&gt;
+&lt;li&gt;Results obtained:
+&lt;ul&gt;
+&lt;li&gt;People liked the minimalist design that I made. Minimalist design is considered to give an elegant and modern impression. Messages that are packaged in a minimalist style are more easily captured by the audience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;fiverr---logo-designer&#34;&gt;&lt;a href=&#34;https://www.fiverr.com/ahmadadillaumam&#34;&gt;Fiverr&lt;/a&gt; - Logo Designer&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;🗓️ APRIL 2020 - SEPTEMBER 2021&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ahmad Adillaumam - Software Developer Resume</title>
       <link>https://wewnumam.github.io/ahmad-adillaumam-software-developer-resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/ahmad-adillaumam-software-developer-resume/</guid>
-      <description>🛠 Skills Video game development: Video game design. Game programming (Unity &amp;amp; HTML5). Web development: Front-End (HTML, CSS, Javascript) Back-End (Codeigniter, Laravel, NodeJS, Django). Database (MySQL, PostgreSQL). CMS (Wordpress, Hugo). Software modeling: Database design. API design and documentation. UI design. Management: Source code management. Program documentation. Project management. 🕓 Experience LKS Web Technology Prov. Central Java 🗓️ MARCH 2021
-Speed test, building web features: CSS (responsive layout) Javascript (rgb color slider) PHP (captcha) Customizing Wordpress themes using CSS.</description>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;-skills&#34;&gt;🛠 Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Video game development:
+&lt;ul&gt;
+&lt;li&gt;Video game design.&lt;/li&gt;
+&lt;li&gt;Game programming (Unity &amp;amp; HTML5).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Web development:
+&lt;ul&gt;
+&lt;li&gt;Front-End (HTML, CSS, Javascript)&lt;/li&gt;
+&lt;li&gt;Back-End (Codeigniter, Laravel, NodeJS, Django).&lt;/li&gt;
+&lt;li&gt;Database (MySQL, PostgreSQL).&lt;/li&gt;
+&lt;li&gt;CMS (Wordpress, Hugo).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Software modeling:
+&lt;ul&gt;
+&lt;li&gt;Database design.&lt;/li&gt;
+&lt;li&gt;API design and documentation.&lt;/li&gt;
+&lt;li&gt;UI design.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Management:
+&lt;ul&gt;
+&lt;li&gt;Source code management.&lt;/li&gt;
+&lt;li&gt;Program documentation.&lt;/li&gt;
+&lt;li&gt;Project management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-experience&#34;&gt;🕓 Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&#34;lks-web-technology-prov-central-java&#34;&gt;LKS Web Technology Prov. Central Java&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;🗓️ MARCH 2021&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Speed test, building web features:
+&lt;ul&gt;
+&lt;li&gt;CSS (responsive layout)&lt;/li&gt;
+&lt;li&gt;Javascript (rgb color slider)&lt;/li&gt;
+&lt;li&gt;PHP (captcha)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Customizing Wordpress themes using CSS.&lt;/li&gt;
+&lt;li&gt;Build a voting system using Laravel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Screen record video of the competition process &lt;a href=&#34;https://youtu.be/xQ-B3tiuptg&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
-    
-    
   </channel>
 </rss>

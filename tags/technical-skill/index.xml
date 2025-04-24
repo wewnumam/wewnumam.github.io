@@ -5,42 +5,45 @@
     <link>https://wewnumam.github.io/tags/technical-skill/</link>
     <description>Recent content in Technical Skill on Ahmad Adillaumam</description>
     <image>
+      <title>Ahmad Adillaumam</title>
       <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jan 2023 05:27:25 +0000</lastBuildDate><atom:link href="https://wewnumam.github.io/tags/technical-skill/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 05:27:25 +0000</lastBuildDate>
+    <atom:link href="https://wewnumam.github.io/tags/technical-skill/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Tips for Writing Clear and Concise Git Commit Messages</title>
       <link>https://wewnumam.github.io/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</link>
       <pubDate>Sun, 01 Jan 2023 05:27:25 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</guid>
-      <description>Writing good commit messages is an important practice that can help other people understand the changes that you have made and why. Here are some tips for writing better commit messages:
-Use a clear and descriptive subject line The first line of the commit message should be a short and concise summary of the changes that you have made. Keep it to around 50 characters or less. This will help other developers quickly understand the changes that you have made.</description>
+      <description>&lt;p&gt;Writing good commit messages is an important practice that can help other people understand the changes that you have made and why. Here are some tips for writing better commit messages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;use-a-clear-and-descriptive-subject-line&#34;&gt;Use a clear and descriptive subject line&lt;/h2&gt;
+&lt;p&gt;The first line of the commit message should be a short and concise summary of the changes that you have made. Keep it to around 50 characters or less. This will help other developers quickly understand the changes that you have made.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>5 Tips for Creating Clean Code</title>
       <link>https://wewnumam.github.io/articles/5-tips-for-creating-clean-code/</link>
       <pubDate>Thu, 29 Dec 2022 05:39:10 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/5-tips-for-creating-clean-code/</guid>
-      <description>Clean code is code that is easy to read, understand, and maintain. It follows a set of coding standards and principles that aim to make the code as readable and maintainable as possible.
-Clean code is important because it helps reduce the time and effort required to understand and modify the codebase, and it makes it easier to add new features or fix bugs. It also promotes collaboration and reduces the risk of introducing new issues when modifying the code.</description>
+      <description>&lt;p&gt;Clean code is code that is easy to read, understand, and maintain. It follows a set of coding standards and principles that aim to make the code as readable and maintainable as possible.&lt;/p&gt;
+&lt;p&gt;Clean code is important because it helps reduce the time and effort required to understand and modify the codebase, and it makes it easier to add new features or fix bugs. It also promotes collaboration and reduces the risk of introducing new issues when modifying the code.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Power of Variable Names</title>
       <link>https://wewnumam.github.io/articles/the-power-of-variable-names/</link>
       <pubDate>Fri, 16 Dec 2022 09:22:51 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/the-power-of-variable-names/</guid>
-      <description>Meaningful Variable Names Choosing good names takes time but saves more than it takes.
-Intention-Revealing Names The name should answer all big questions. It should tell you why it exists, what it does, and how it is used. If the name requires a comment, the name does not reveal the intent.
-let d; // elapsed time in days We should choose the name that specifies what is being measured and the unit of that measurement:</description>
+      <description>&lt;h2 id=&#34;meaningful-variable-names&#34;&gt;Meaningful Variable Names&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Choosing good names takes time but saves more than it takes.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;intention-revealing-names&#34;&gt;Intention-Revealing Names&lt;/h3&gt;
+&lt;p&gt;The name should answer all big questions. It should tell you why it exists, what it does, and how it is used. If the name requires a comment, the name does not reveal the intent.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;d&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// elapsed time in days
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;We should choose the name that specifies what is being measured and the unit of that measurement:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

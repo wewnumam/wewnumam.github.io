@@ -5,42 +5,45 @@
     <link>https://wewnumam.github.io/id/tags/technical-skill/</link>
     <description>Recent content in Technical Skill on Ahmad Adillaumam</description>
     <image>
+      <title>Ahmad Adillaumam</title>
       <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>id</language>
-    <lastBuildDate>Sun, 01 Jan 2023 05:27:33 +0000</lastBuildDate><atom:link href="https://wewnumam.github.io/id/tags/technical-skill/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 05:27:33 +0000</lastBuildDate>
+    <atom:link href="https://wewnumam.github.io/id/tags/technical-skill/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Tips untuk Menulis Pesan Git Commit yang Jelas dan Ringkas</title>
       <link>https://wewnumam.github.io/id/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</link>
       <pubDate>Sun, 01 Jan 2023 05:27:33 +0000</pubDate>
-      
       <guid>https://wewnumam.github.io/id/articles/5-tips-for-writing-clear-and-concise-git-commit-messages/</guid>
-      <description>Menulis pesan commit yang baik adalah praktik penting yang dapat membantu orang lain memahami perubahan yang telah kita buat dan alasannya. Berikut ini beberapa kiat untuk menulis commit message yang lebih baik:
-Gunakan baris subjek yang jelas dan deskriptif Baris pertama dari pesan commit harus berupa ringkasan singkat dan padat dari perubahan yang telah kita buat. Jaga agar panjangnya sekitar 50 karakter atau kurang. Ini akan membantu pengembang lain dengan cepat memahami perubahan yang telah kita buat.</description>
+      <description>&lt;p&gt;Menulis pesan commit yang baik adalah praktik penting yang dapat membantu orang lain memahami perubahan yang telah kita buat dan alasannya. Berikut ini beberapa kiat untuk menulis commit message yang lebih baik:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;gunakan-baris-subjek-yang-jelas-dan-deskriptif&#34;&gt;Gunakan baris subjek yang jelas dan deskriptif&lt;/h2&gt;
+&lt;p&gt;Baris pertama dari pesan commit harus berupa ringkasan singkat dan padat dari perubahan yang telah kita buat. Jaga agar panjangnya sekitar 50 karakter atau kurang. Ini akan membantu pengembang lain dengan cepat memahami perubahan yang telah kita buat.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>5 Tips untuk Membuat Kode yang Bersih</title>
       <link>https://wewnumam.github.io/id/articles/5-tips-for-creating-clean-code/</link>
       <pubDate>Thu, 29 Dec 2022 05:39:14 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/id/articles/5-tips-for-creating-clean-code/</guid>
-      <description>Clean code adalah kode yang mudah dibaca, dipahami, dan dikelola. Kode bersih mengikuti seperangkat standar dan prinsip pengkodean yang bertujuan untuk membuat kode dapat dimengerti dan dirawat sebaik mungkin.
-Clean code penting karena membantu mengurangi waktu dan upaya yang diperlukan untuk memahami dan memodifikasi basis kode, dan membuatnya lebih mudah untuk menambahkan fitur baru atau memperbaiki bug. Ini juga mendukung kolaborasi dan mengurangi risiko memperkenalkan masalah baru saat memodifikasi kode.</description>
+      <description>&lt;p&gt;Clean code adalah kode yang mudah dibaca, dipahami, dan dikelola. Kode bersih mengikuti seperangkat standar dan prinsip pengkodean yang bertujuan untuk membuat kode dapat dimengerti dan dirawat sebaik mungkin.&lt;/p&gt;
+&lt;p&gt;Clean code penting karena membantu mengurangi waktu dan upaya yang diperlukan untuk memahami dan memodifikasi basis kode, dan membuatnya lebih mudah untuk menambahkan fitur baru atau memperbaiki bug. Ini juga mendukung kolaborasi dan mengurangi risiko memperkenalkan masalah baru saat memodifikasi kode.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dahsyatnya Fungsi Nama Variabel</title>
       <link>https://wewnumam.github.io/id/articles/the-power-of-variable-names/</link>
       <pubDate>Fri, 16 Dec 2022 09:22:51 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/id/articles/the-power-of-variable-names/</guid>
-      <description>Nama Variabel yang Bermakna Memilih nama yang baik membutuhkan waktu tetapi menghemat lebih banyak daripada yang dibutuhkan.
-Nama yang Mengungkapkan Niat Nama harus menjawab semua pertanyaan besar. Nama harus memberitahu kita mengapa variabel itu ada, apa yang dilakukannya, dan bagaimana penggunaannya. Jika nama tersebut membutuhkan komentar, maka nama tersebut tidak mengungkapkan maksudnya.
-let d; // waktu yang berlalu dalam hari Kita harus memilih nama yang menentukan apa yang sedang diukur dan unit pengukuran itu:</description>
+      <description>&lt;h2 id=&#34;nama-variabel-yang-bermakna&#34;&gt;Nama Variabel yang Bermakna&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Memilih nama yang baik membutuhkan waktu tetapi menghemat lebih banyak daripada yang dibutuhkan.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;nama-yang-mengungkapkan-niat&#34;&gt;Nama yang Mengungkapkan Niat&lt;/h3&gt;
+&lt;p&gt;Nama harus menjawab semua pertanyaan besar. Nama harus memberitahu kita mengapa variabel itu ada, apa yang dilakukannya, dan bagaimana penggunaannya. Jika nama tersebut membutuhkan komentar, maka nama tersebut tidak mengungkapkan maksudnya.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;d&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// waktu yang berlalu dalam hari
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Kita harus memilih nama yang menentukan apa yang sedang diukur dan unit pengukuran itu:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

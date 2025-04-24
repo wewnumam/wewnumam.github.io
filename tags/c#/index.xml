@@ -2,26 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>C# on Ahmad Adillaumam</title>
-    <link>https://wewnumam.github.io/tags/c#/</link>
+    <link>https://wewnumam.github.io/tags/c%23/</link>
     <description>Recent content in C# on Ahmad Adillaumam</description>
     <image>
+      <title>Ahmad Adillaumam</title>
       <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Dec 2022 18:24:03 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/tags/c#/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 18:24:03 +0700</lastBuildDate>
+    <atom:link href="https://wewnumam.github.io/tags/c%23/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntatic Sugars | C# Hidden Features</title>
       <link>https://wewnumam.github.io/articles/syntatic-sugars-csharp-hidden-features/</link>
       <pubDate>Thu, 22 Dec 2022 18:24:03 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/articles/syntatic-sugars-csharp-hidden-features/</guid>
-      <description>Note:
-To be able to use these features we need at least C# version 7 and above or Unity 2018 and above.
-Ternary Operator In computer programming, the ternary conditional operator is a ternary operator that is part of the syntax for basic conditional expressions in several programming languages.It is commonly referred to as the conditional operator, ternary if, or inline if.
-An expression a ? b : c evaluates to b if the value of a is true, and otherwise to c.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To be able to use these features we need at least C# version 7 and above or Unity 2018 and above.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ternary-operator&#34;&gt;Ternary Operator&lt;/h2&gt;
+&lt;p&gt;In computer programming, the ternary conditional operator is a ternary operator that is part of the syntax for basic conditional expressions in several programming languages.It is commonly referred to as the conditional operator, ternary if, or inline if.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;An expression &lt;code&gt;a ? b : c&lt;/code&gt; evaluates to &lt;code&gt;b&lt;/code&gt; if the value of &lt;code&gt;a&lt;/code&gt; is true, and otherwise to &lt;code&gt;c&lt;/code&gt;. One can read it aloud as &amp;ldquo;&lt;em&gt;if a then b otherwise c&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

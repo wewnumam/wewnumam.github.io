@@ -5,23 +5,27 @@
     <link>https://wewnumam.github.io/id/tags/unity/</link>
     <description>Recent content in Unity on Ahmad Adillaumam</description>
     <image>
+      <title>Ahmad Adillaumam</title>
       <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>id</language>
-    <lastBuildDate>Thu, 22 Dec 2022 18:24:06 +0700</lastBuildDate><atom:link href="https://wewnumam.github.io/id/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 18:24:06 +0700</lastBuildDate>
+    <atom:link href="https://wewnumam.github.io/id/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntatic Sugars | Fitur Tersembunyi C#</title>
       <link>https://wewnumam.github.io/id/articles/syntatic-sugars-csharp-hidden-features/</link>
       <pubDate>Thu, 22 Dec 2022 18:24:06 +0700</pubDate>
-      
       <guid>https://wewnumam.github.io/id/articles/syntatic-sugars-csharp-hidden-features/</guid>
-      <description>Catatan:
-Untuk dapat menggunakan fitur-fitur ini, kita membutuhkan setidaknya C# versi 7 ke atas atau Unity 2018 ke atas.
-Ternary Operator Dalam pemrograman komputer, ternary operator adalah merupakan bagian dari sintaks untuk ekspresi kondisional dasar dalam beberapa bahasa pemrograman, biasanya disebut sebagai operator kondisional, ternary if, atau inline if.
-Sebuah ekspresi a ? b : c dievaluasi ke b jika nilai a benar, dan sebaliknya ke c. Atau secara singkat: &amp;ldquo;jika a maka b jika tidak maka c&amp;rdquo;.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Catatan:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Untuk dapat menggunakan fitur-fitur ini, kita membutuhkan setidaknya C# versi 7 ke atas atau Unity 2018 ke atas.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ternary-operator&#34;&gt;Ternary Operator&lt;/h2&gt;
+&lt;p&gt;Dalam pemrograman komputer, ternary operator adalah merupakan bagian dari sintaks untuk ekspresi kondisional dasar dalam beberapa bahasa pemrograman, biasanya disebut sebagai operator kondisional, &lt;em&gt;ternary if&lt;/em&gt;, atau &lt;em&gt;inline if&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sebuah ekspresi &lt;code&gt;a ? b : c&lt;/code&gt; dievaluasi ke &lt;code&gt;b&lt;/code&gt; jika nilai &lt;code&gt;a&lt;/code&gt; benar, dan sebaliknya ke &lt;code&gt;c&lt;/code&gt;. Atau secara singkat: &amp;ldquo;&lt;em&gt;jika a maka b jika tidak maka c&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
