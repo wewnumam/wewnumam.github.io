@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wewnumam.github.io/</loc>
-    <lastmod>2025-04-24T17:25:26+07:00</lastmod>
+    <lastmod>2025-04-25T12:41:59+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/articles/</loc>
-    <lastmod>2025-04-24T17:25:26+07:00</lastmod>
+    <lastmod>2025-04-25T12:41:59+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -26,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wewnumam.github.io/articles/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/articles/productivity-as-developer/</loc>
+    <lastmod>2025-04-25T12:41:59+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/productivity-as-developer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/productivity-as-developer/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/articles/freelance-web-dev-roadmap/</loc>
