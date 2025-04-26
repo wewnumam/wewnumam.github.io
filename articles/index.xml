@@ -9,10 +9,100 @@
       <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
-    <generator>Hugo -- 0.146.7</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Apr 2025 12:41:59 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 10:11:37 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career Change to Code</title>
+      <link>https://wewnumam.github.io/articles/career-change-to-code/</link>
+      <pubDate>Sat, 26 Apr 2025 10:11:37 +0700</pubDate>
+      <guid>https://wewnumam.github.io/articles/career-change-to-code/</guid>
+      <description>&lt;h1 id=&#34;course-goals&#34;&gt;Course Goals&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Save a lot of time, money and effort.&lt;/li&gt;
+&lt;li&gt;Achieve your coding goals, your plan or path to achieve those goals, the steps, routines, habits and timelines required to achieve your goals.&lt;/li&gt;
+&lt;li&gt;Recognize myths or mismatched expectations that stand in the way of learning to program.&lt;/li&gt;
+&lt;li&gt;Use effective tools and strategies + discouragement-tree.&lt;/li&gt;
+&lt;li&gt;Recognize pitfalls &amp;amp; diversions that cause delays and derailment.&lt;/li&gt;
+&lt;li&gt;Be a highly effective lifelong-learner.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;preparation--mindset&#34;&gt;Preparation + Mindset&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;First thing to achieve your goals.&lt;/li&gt;
+&lt;li&gt;All success start with get good at this.&lt;/li&gt;
+&lt;li&gt;Getting most out of this course:
+&lt;ol&gt;
+&lt;li&gt;Inertia.&lt;/li&gt;
+&lt;li&gt;Frustration.&lt;/li&gt;
+&lt;li&gt;Growth Mindset.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Time + Effort = Goal&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Time lots of it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;a-framework-for-your-journey&#34;&gt;A Framework for your journey&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;5 W + 1 H&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Help you get total clarity &amp;amp; expectation from yourself, process of learning, and your definition of success.&lt;/li&gt;
+&lt;li&gt;Keep referring to your plan! Are you on track with it? Does it need adjustment?&lt;/li&gt;
+&lt;li&gt;The Sequence Matters:
+&lt;ol&gt;
+&lt;li&gt;Better decisions.&lt;/li&gt;
+&lt;li&gt;Demythify.&lt;/li&gt;
+&lt;li&gt;Build the plan.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;why-do-you-want-to-learn-to-code&#34;&gt;Why do you want to learn to code?&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;You must define your why before you can begin with the what and the how.&lt;/li&gt;
+&lt;li&gt;At some point, if you ask why enough time, you will get something you strongly believe.&lt;/li&gt;
+&lt;li&gt;Ask why deeply to your previous why answer.&lt;/li&gt;
+&lt;li&gt;What do you want to learn based on your reason?&lt;/li&gt;
+&lt;li&gt;What the skills you must have to achieve your goals?&lt;/li&gt;
+&lt;li&gt;What the relevant subjects to learn?&lt;/li&gt;
+&lt;li&gt;When learning a new skill focus is the absolute key. The less topics you do the more progress you make. Separate your task into &amp;ldquo;must have skills&amp;rdquo; and &amp;ldquo;nice to &amp;ldquo;have skills&amp;rdquo; to help you focus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;who-models--mentors&#34;&gt;Who? (Models &amp;amp; Mentors)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;How else do we know were going the right way?&lt;/li&gt;
+&lt;li&gt;There so many ways to get someplace, we want the shortest right?&lt;/li&gt;
+&lt;li&gt;Find someone who has achieved the same goals you&amp;rsquo;re aiming for.&lt;/li&gt;
+&lt;li&gt;You almost certainly know at least one person and then there is always social media.&lt;/li&gt;
+&lt;li&gt;Reach out.&lt;/li&gt;
+&lt;li&gt;Make it useful, not aspirational.&lt;/li&gt;
+&lt;li&gt;When do I need to turn to them? When you&amp;rsquo;re confused or stuck.&lt;/li&gt;
+&lt;li&gt;A good model will help you choose a step that is right for you and takes you closer to your what, efficiently and productively.&lt;/li&gt;
+&lt;li&gt;Internet is full of opinions, mentor can help when you&amp;rsquo;re confused.&lt;/li&gt;
+&lt;li&gt;The Mentor/Model will help guide you to the best next step for you.&lt;/li&gt;
+&lt;li&gt;The right WHO includes enough to help you make better decisions (even if they cannot make the decision for you).&lt;/li&gt;
+&lt;li&gt;If they&amp;rsquo;ve done what you want to do, listen closely. But don&amp;rsquo;t blindly follow. If they&amp;rsquo;ve not done it, maybe you should find someone who has, or at least tried.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t confine yourself to physical mentorship.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;when-by&#34;&gt;When by?&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Work expands to fill the time available to complete it&amp;rdquo; ~Parkinson&amp;rsquo;s law.&lt;/li&gt;
+&lt;li&gt;S.M.A.R.T goals (Specific, Measurable, Achievable, Realistic, Time-Bound).&lt;/li&gt;
+&lt;li&gt;Break it down into chunks. Each chunk must have a clear beginning and finish point. Choose metrics that can be aimed for daily/weekly.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t set goals too far into the future. Set the game up so you win quickly and constantly. Missing the timeline is 0K, if it&amp;rsquo;s the exception.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;where-learning-formats&#34;&gt;Where (Learning Formats)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Books.&lt;/li&gt;
+&lt;li&gt;Multimedia experience (online course).&lt;/li&gt;
+&lt;li&gt;Let&amp;rsquo;s find yours:
+&lt;ol&gt;
+&lt;li&gt;Pick your first small learning goal. Then do it several times from different sources. Should take no more than 10 hours across all your learning formats.&lt;/li&gt;
+&lt;li&gt;Fundamentals feel strong? Now work out which formats were most effective for you.&lt;/li&gt;
+&lt;li&gt;Eliminate formats until you&amp;rsquo;re left with top 2-3.&lt;/li&gt;
+&lt;li&gt;Repeat with top 2-3 formats on your next small learning goal.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;the-sequence-matters&#34;&gt;The Sequence Matters&lt;/h1&gt;
+&lt;p&gt;Build the plan ➡️ Demythify ➡️ Better decisions&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Productivity as Developer</title>
       <link>https://wewnumam.github.io/articles/productivity-as-developer/</link>
@@ -558,7 +648,7 @@
 &lt;hr&gt;
 &lt;p&gt;Source:
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/C_jQahOnGUU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/C_jQahOnGUU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 &lt;/p&gt;</description>
     </item>
@@ -931,7 +1021,7 @@
       <guid>https://wewnumam.github.io/articles/gameseed-roadshow-key-points/</guid>
       <description>&lt;h2 id=&#34;adam-ardisasmita&#34;&gt;Adam Ardisasmita&lt;/h2&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xoeit2NdiHA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xoeit2NdiHA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 &lt;ul&gt;
