@@ -11,8 +11,52 @@
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Apr 2025 13:44:55 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 20:27:25 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Architecture Patterns</title>
+      <link>https://wewnumam.github.io/articles/software-architecture-patterns/</link>
+      <pubDate>Tue, 29 Apr 2025 20:27:25 +0700</pubDate>
+      <guid>https://wewnumam.github.io/articles/software-architecture-patterns/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;It is common for programmers to create software without careful preparation.&lt;/li&gt;
+&lt;li&gt;This sometimes makes the software difficult to maintain and develop when it has already been made.&lt;/li&gt;
+&lt;li&gt;Therefore, before making a large software, one of the things that must be done is to choose the architecture that will be used.&lt;/li&gt;
+&lt;li&gt;In choosing a software architecture, we must understand its advantages and disadvantages, so that it helps in the creation of the software to be carried out.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software-architecture-patterns&#34;&gt;Software Architecture Patterns&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Architecture Patterns are a collection of architectural styles in software development.&lt;/li&gt;
+&lt;li&gt;There are many Architecture Patterns, and each pattern has its own advantages and disadvantages. In Architecture Patterns there is no right and wrong, but whether it fits or not.&lt;/li&gt;
+&lt;li&gt;Programmers need to know about this material so that they can determine what pattern to use when creating software.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;purpose-of-architecture-patterns&#34;&gt;Purpose of Architecture Patterns&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Each Architecture Pattern has characteristics such as easy to develop, scalable and easy to maintain.&lt;/li&gt;
+&lt;li&gt;The hope is that by using the right Architecture Pattern when making software, the results of the software we make will be easy to develop in the future.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;architecture-classification&#34;&gt;Architecture Classification&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Software Architecture Patterns are broadly divided into two classifications, Monolithic and Distribute.&lt;/li&gt;
+&lt;li&gt;Monolithic is a single deployment unit or runs in one application.&lt;/li&gt;
+&lt;li&gt;Distributed is multiple deployment units, usually consisting of several applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;monolithic-architectures&#34;&gt;Monolithic Architectures&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Monolithic Architecture is generally very simple compared to Distributed Architecture.&lt;/li&gt;
+&lt;li&gt;Monolithic application design is simpler and easier to implement.&lt;/li&gt;
+&lt;li&gt;Applications that use Monolithic Architecture will be very fast to build and distribute.
+&lt;img alt=&#34;Monolithic Architectures&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/YQkdFLv.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;distributed-architecture&#34;&gt;Distributed Architecture&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed Architecture usually consists of several applications working simultaneously, in contrast to Monolithic applications which are only one application.&lt;/li&gt;
+&lt;li&gt;Usually in Distributed Architecture, each application unit is called a Service.&lt;/li&gt;
+&lt;li&gt;Distributed Architecture development is more complex than Monolithic Architecture, but offers advantages such as fault tolerance, for example when one service fails, other services can still run normally.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;Distributed Architecture&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/CAHCQzg.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Learn From Free College Cs Courses</title>
       <link>https://wewnumam.github.io/articles/learn-from-free-college-cs-courses/</link>

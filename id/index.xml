@@ -11,8 +11,52 @@
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>id</language>
-    <lastBuildDate>Mon, 28 Apr 2025 13:44:58 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 20:27:22 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Architecture Patterns</title>
+      <link>https://wewnumam.github.io/id/articles/software-architecture-patterns/</link>
+      <pubDate>Tue, 29 Apr 2025 20:27:22 +0700</pubDate>
+      <guid>https://wewnumam.github.io/id/articles/software-architecture-patterns/</guid>
+      <description>&lt;h1 id=&#34;pendahuluan&#34;&gt;Pendahuluan&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Sudah jadi hal yang biasa, biasanya programmer akan membuat perangkat lunak tanpa persiapan yang matang.&lt;/li&gt;
+&lt;li&gt;Hal ini kadang membuat perangkat lunak menjadi sulit di-maintain dan dikembangkan ketika sudah terlanjur dibuat.&lt;/li&gt;
+&lt;li&gt;Oleh karena itu, sebelum melakukan pembuatan perangkat lunak yang besar, salah satu hal yang wajib dilakukan adalah memilih arsitektur yang akan digunakan.&lt;/li&gt;
+&lt;li&gt;Dalam pemilihan arsitektur perangkat lunak, kita harus mengerti kelebihan dan kekurangannya, agar membantu dalam pembuatan perangkat lunak yang akan dilakukan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software-architecture-patterns&#34;&gt;Software Architecture Patterns&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Architecture Patterns merupakan kumpulan gaya arsitektur dalam pembuatan perangkat lunak.&lt;/li&gt;
+&lt;li&gt;Ada banyak sekali Architecture Patterns, dan setiap pattern memiliki kelebihan dan kekurangan masing-masing. Di dalam Architecture Patterns tidak ada benar dan salah, tapi cocok atau tidak.&lt;/li&gt;
+&lt;li&gt;Programmer perlu tahu tentang materi ini agar bisa menentukan pattern apa yang akan digunakan ketika membuat perangkat lunak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tujuan-architecture-patterns&#34;&gt;Tujuan Architecture Patterns&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tiap Architecture Pattern memiliki karakteristik seperti mudah dikembangkan, scalable dan mudah di-maintain.&lt;/li&gt;
+&lt;li&gt;Harapannya, dengan menggunakan Architecture Pattern yang tepat saat pembuatan perangkat lunak, hasil perangkat lunak yang kita buat akan mudah dikembangkan kedepannya.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;architecture-classification&#34;&gt;Architecture Classification&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Software Architecture Patterns secara garis besar dibagi menjadi dua klasifikasi, Monolithic dan Distribute.&lt;/li&gt;
+&lt;li&gt;Monolithic adalah single deployment unit atau berjalan dalam satu aplikasi.&lt;/li&gt;
+&lt;li&gt;Distributed adalah multiple deployment units, biasanya terdiri dari beberapa aplikasi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;monolithic-architectures&#34;&gt;Monolithic Architectures&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Monolithic Architecture secara umum sangat sederhana dibandingkan Distributed Architecture.&lt;/li&gt;
+&lt;li&gt;Desain aplikasi Monolithic lebih sederhana dan mudah diimplementasikan.&lt;/li&gt;
+&lt;li&gt;Aplikasi yang menggunakan Monolithic Architecture akan sangat cepat dibuat dan didistribusikan.
+&lt;img alt=&#34;Monolithic Architectures&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/YQkdFLv.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;distributed-architecture&#34;&gt;Distributed Architecture&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed Architecture biasanya terdiri dari beberapa aplikasi yang bekerja bersamaan, berbeda dengan aplikasi Monolithic yang hanya satu aplikasi.&lt;/li&gt;
+&lt;li&gt;Biasanya dalam Distributed Architecture, setiap unit aplikasi disebut Service.&lt;/li&gt;
+&lt;li&gt;Pengembangan Distributed Architecture memang lebih kompleks dibandingkan dengan Monolithic Architecture, namun menawarkan keuntungan seperti toleransi kesalahan (fault tolerance), misal ketika ada satu Service gagal, Service lain masih bisa berjalan dengan normal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;Distributed Architecture&#34; loading=&#34;lazy&#34; src=&#34;https://i.imgur.com/CAHCQzg.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Learn From Free College Cs Courses</title>
       <link>https://wewnumam.github.io/id/articles/learn-from-free-college-cs-courses/</link>
