@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wewnumam.github.io/</loc>
-    <lastmod>2025-04-30T10:31:41+07:00</lastmod>
+    <lastmod>2025-05-01T11:49:49+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/articles/</loc>
-    <lastmod>2025-04-30T10:31:41+07:00</lastmod>
+    <lastmod>2025-05-01T11:49:49+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -26,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wewnumam.github.io/articles/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/articles/homo-ludens/</loc>
+    <lastmod>2025-05-01T11:49:49+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/homo-ludens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/homo-ludens/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/articles/welcome-to-artificial-intelligence/</loc>
