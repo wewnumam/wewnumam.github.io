@@ -11,8 +11,31 @@
     </image>
     <generator>Hugo -- 0.147.1</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 02 May 2025 19:17:17 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 09:48:00 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art of Game Design</title>
+      <link>https://wewnumam.github.io/id/articles/the-art-of-game-design/</link>
+      <pubDate>Sat, 03 May 2025 09:48:00 +0700</pubDate>
+      <guid>https://wewnumam.github.io/id/articles/the-art-of-game-design/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Desain game bukanlah tentang membuat game, melainkan tentang menciptakan pengalaman.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-1-peran-desainer-pendengar--visioner&#34;&gt;✨ 1. Peran Desainer: Pendengar &amp;amp; Visioner&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dengarkan&lt;/strong&gt; tim, audiens, klien, dan bahkan diri Anda sendiri.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; pengalaman; tanpa pengalaman, game hanyalah kode dan seni.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;TOL (Tool of Learning):&lt;/strong&gt; * Emosi apa yang saya ingin pemain saya rasakan? Mengapa?&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-2-fondasi-psikologi-antropologi--desain&#34;&gt;🧠 2. Fondasi: Psikologi, Antropologi &amp;amp; Desain&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Psikologi&lt;/strong&gt;: Bagaimana pemain berpikir dan merasa.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Antropologi&lt;/strong&gt;: Tempat-tempat budaya (pribadi, publik) di mana permainan berlangsung.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Desain&lt;/strong&gt;: Memecahkan masalah dengan kreativitas.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Orang mungkin akan melupakan apa yang Anda katakan, tetapi mereka tidak akan pernah melupakan bagaimana Anda membuat mereka merasa.” - Maya Angelou&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kickstart Your Software Developer Journey</title>
       <link>https://wewnumam.github.io/id/articles/kickstart-your-software-developer-journey/</link>

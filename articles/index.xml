@@ -11,8 +11,31 @@
     </image>
     <generator>Hugo -- 0.147.1</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 May 2025 19:17:13 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 09:47:56 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art of Game Design</title>
+      <link>https://wewnumam.github.io/articles/the-art-of-game-design/</link>
+      <pubDate>Sat, 03 May 2025 09:47:56 +0700</pubDate>
+      <guid>https://wewnumam.github.io/articles/the-art-of-game-design/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Game design is not about building games—it’s about creating experiences.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-1-the-designers-role-listener--visionary&#34;&gt;✨ 1. The Designer’s Role: Listener &amp;amp; Visionary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Listen&lt;/strong&gt; to your team, audience, client, and even yourself.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; experiences; without them, games are just code and art.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;TOL (Tool of Learning):&lt;/strong&gt; &lt;em&gt;What emotion do I want my player to feel? Why?&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-2-foundations-psychology-anthropology--design&#34;&gt;🧠 2. Foundations: Psychology, Anthropology &amp;amp; Design&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Psychology&lt;/strong&gt;: How players think and feel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anthropology&lt;/strong&gt;: Cultural venues (private, public) where games live.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Design&lt;/strong&gt;: Solving problems with creativity.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“People may forget what you said, but they’ll never forget how you made them feel.” — Maya Angelou&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kickstart Your Software Developer Journey</title>
       <link>https://wewnumam.github.io/articles/kickstart-your-software-developer-journey/</link>
