@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wewnumam.github.io/id/articles/agate-mvc-case-study/</loc>
+    <lastmod>2025-05-05T20:31:09+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/agate-mvc-case-study/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/agate-mvc-case-study/"
+                />
+  </url><url>
     <loc>https://wewnumam.github.io/id/</loc>
-    <lastmod>2025-05-03T09:48:00+07:00</lastmod>
+    <lastmod>2025-05-05T20:31:09+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +29,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/</loc>
-    <lastmod>2025-05-03T09:48:00+07:00</lastmod>
+    <lastmod>2025-05-05T20:31:09+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

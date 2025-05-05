@@ -11,8 +11,34 @@
     </image>
     <generator>Hugo -- 0.147.1</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 May 2025 09:47:56 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 20:31:05 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agate MVC Case Study</title>
+      <link>https://wewnumam.github.io/articles/agate-mvc-case-study/</link>
+      <pubDate>Mon, 05 May 2025 20:31:05 +0700</pubDate>
+      <guid>https://wewnumam.github.io/articles/agate-mvc-case-study/</guid>
+      <description>&lt;h2 id=&#34;1--introduction&#34;&gt;1. 📖 Introduction&lt;/h2&gt;
+&lt;p&gt;Unity has become one of the most popular game engines. However, Unity&amp;rsquo;s built-in component-based pattern often leads to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Tight coupling of code&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;🗃️ &lt;strong&gt;Unstructured persistent data management&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;🕹️ &lt;strong&gt;Abuse of Singleton pattern&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To overcome this, the “City of Philosophy” case study utilizes &lt;strong&gt;Model-View-Controller (MVC)&lt;/strong&gt; via &lt;strong&gt;Agate MVC Framework&lt;/strong&gt;, clearly separating data, logic, and views.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2--objectives--benefits&#34;&gt;2. 🎯 Objectives &amp;amp; Benefits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Implement MVC in Unity using Agate MVC.&lt;/li&gt;
+&lt;li&gt;Evaluate the code quality and architecture of the game “City of Philosophy”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Art of Game Design</title>
       <link>https://wewnumam.github.io/articles/the-art-of-game-design/</link>
