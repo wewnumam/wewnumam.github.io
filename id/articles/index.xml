@@ -11,8 +11,26 @@
     </image>
     <generator>Hugo -- 0.147.1</generator>
     <language>id</language>
-    <lastBuildDate>Mon, 05 May 2025 20:31:09 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 20:51:27 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/id/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancing Your Software Craftsmanship</title>
+      <link>https://wewnumam.github.io/id/articles/enhancing-your-software-craftsmanship/</link>
+      <pubDate>Tue, 06 May 2025 20:51:27 +0700</pubDate>
+      <guid>https://wewnumam.github.io/id/articles/enhancing-your-software-craftsmanship/</guid>
+      <description>&lt;p&gt;Membuat perangkat lunak berkualitas tinggi bukan hanya tentang mengetik kode-ini adalah tentang &lt;strong&gt;perencanaan yang matang&lt;/strong&gt;, &lt;strong&gt;konstruksi yang terampil&lt;/strong&gt;, dan &lt;strong&gt;desain yang elegan&lt;/strong&gt;. Mari jelajahi prinsip-prinsip utama dan heuristik yang akan meningkatkan praktik pemrograman Anda.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-mengapa-konstruksi-perangkat-lunak-penting-&#34;&gt;1. Mengapa Konstruksi Perangkat Lunak Penting 🌟&lt;/h2&gt;
+&lt;p&gt;Konstruksi adalah &lt;strong&gt;jantungnya&lt;/strong&gt; pengembangan perangkat lunak - di sinilah ide menjadi kode yang dapat dijalankan. Berfokus pada konstruksi:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Meningkatkan Produktivitas&lt;/strong&gt;: Menyempurnakan keterampilan konstruksi Anda dapat meningkatkan hasil kerja Anda secara dramatis.&lt;/li&gt;
+&lt;li&gt;📜 &lt;strong&gt;Spesifikasi yang Akurat&lt;/strong&gt;: Kode sumber sering kali berfungsi sebagai deskripsi yang paling tepat untuk perangkat lunak Anda.&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Pengiriman Dijamin&lt;/strong&gt;: Konstruksi adalah fase &lt;strong&gt;satu-satunya&lt;/strong&gt; yang pasti terjadi pada setiap proyek.&lt;/li&gt;
+&lt;li&gt;🎯 &lt;strong&gt;Dampak Kualitas&lt;/strong&gt;: Keahlian yang Anda terapkan secara langsung memengaruhi &lt;strong&gt;keandalan&lt;/strong&gt;, &lt;strong&gt;pemeliharaan&lt;/strong&gt;, dan &lt;strong&gt;kinerja&lt;/strong&gt; perangkat lunak Anda.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Pada analisis akhir, pemahaman Anda tentang bagaimana melakukan konstruksi menentukan seberapa baik programmer Anda.” &lt;/p&gt;</description>
+    </item>
     <item>
       <title>Agate MVC Case Study</title>
       <link>https://wewnumam.github.io/id/articles/agate-mvc-case-study/</link>

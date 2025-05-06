@@ -11,8 +11,26 @@
     </image>
     <generator>Hugo -- 0.147.1</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 May 2025 20:31:05 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 20:51:23 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancing Your Software Craftsmanship</title>
+      <link>https://wewnumam.github.io/articles/enhancing-your-software-craftsmanship/</link>
+      <pubDate>Tue, 06 May 2025 20:51:23 +0700</pubDate>
+      <guid>https://wewnumam.github.io/articles/enhancing-your-software-craftsmanship/</guid>
+      <description>&lt;p&gt;Crafting high-quality software isn’t just about typing code—it’s about &lt;strong&gt;thoughtful planning&lt;/strong&gt;, &lt;strong&gt;skillful construction&lt;/strong&gt;, and &lt;strong&gt;elegant design&lt;/strong&gt;. Let’s explore the key principles and heuristics that will elevate your programming practice.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-why-software-construction-matters-&#34;&gt;1. Why Software Construction Matters 🌟&lt;/h2&gt;
+&lt;p&gt;Construction is the &lt;strong&gt;heart&lt;/strong&gt; of software development—it’s where ideas become runnable code. Focusing on construction:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Boosts Productivity&lt;/strong&gt;: Refining your construction skills can dramatically improve your output.&lt;/li&gt;
+&lt;li&gt;📜 &lt;strong&gt;Accurate Specification&lt;/strong&gt;: The source code often serves as the &lt;strong&gt;most precise&lt;/strong&gt; description of your software.&lt;/li&gt;
+&lt;li&gt;✅ &lt;strong&gt;Guaranteed Delivery&lt;/strong&gt;: Construction is the &lt;strong&gt;only&lt;/strong&gt; phase certain to happen on every project.&lt;/li&gt;
+&lt;li&gt;🎯 &lt;strong&gt;Quality Impact&lt;/strong&gt;: The craftsmanship you apply directly influences the &lt;strong&gt;reliability&lt;/strong&gt;, &lt;strong&gt;maintainability&lt;/strong&gt;, and &lt;strong&gt;performance&lt;/strong&gt; of your software.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“In the final analysis, your understanding of how to do construction determines how good a programmer you are.” &lt;/p&gt;</description>
+    </item>
     <item>
       <title>Agate MVC Case Study</title>
       <link>https://wewnumam.github.io/articles/agate-mvc-case-study/</link>
