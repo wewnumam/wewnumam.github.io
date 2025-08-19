@@ -9,10 +9,24 @@
       <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Dec 2023 03:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 17:18:14 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://wewnumam.github.io/tags/ai/</link>
+      <pubDate>Tue, 19 Aug 2025 17:18:14 +0700</pubDate>
+      <guid>https://wewnumam.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Principles of Artificial Intelligence</title>
+      <link>https://wewnumam.github.io/tags/principles-of-artificial-intelligence/</link>
+      <pubDate>Tue, 19 Aug 2025 17:18:14 +0700</pubDate>
+      <guid>https://wewnumam.github.io/tags/principles-of-artificial-intelligence/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Career</title>
       <link>https://wewnumam.github.io/tags/career/</link>

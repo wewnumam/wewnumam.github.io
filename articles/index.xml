@@ -9,10 +9,19 @@
       <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
-    <generator>Hugo -- 0.147.1</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 May 2025 20:51:23 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 17:18:14 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence: Definition, Basis, Approach, and Foundations</title>
+      <link>https://wewnumam.github.io/articles/artificial-intelligence-definition-basis-approach-and-foundations/</link>
+      <pubDate>Tue, 19 Aug 2025 17:18:14 +0700</pubDate>
+      <guid>https://wewnumam.github.io/articles/artificial-intelligence-definition-basis-approach-and-foundations/</guid>
+      <description>&lt;h1 id=&#34;understanding-artificial-intelligence-definitions-foundations-and-approaches&#34;&gt;Understanding Artificial Intelligence: Definitions, Foundations, and Approaches&lt;/h1&gt;
+&lt;p&gt;Artificial Intelligence, or more commonly known as &lt;strong&gt;AI&lt;/strong&gt;, is now present in almost every aspect of our lives. From movie recommendations on streaming apps, customer service chatbots, to self-driving cars — all are the result of decades of research into how to make machines “intelligent” like humans.&lt;/p&gt;
+&lt;p&gt;But what exactly is AI? Where did the idea come from? Let’s break it down in simple terms.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Enhancing Your Software Craftsmanship</title>
       <link>https://wewnumam.github.io/articles/enhancing-your-software-craftsmanship/</link>

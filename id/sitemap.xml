@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wewnumam.github.io/id/</loc>
-    <lastmod>2025-05-06T20:51:27+07:00</lastmod>
+    <lastmod>2025-08-19T17:18:18+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +15,21 @@
                 href="https://wewnumam.github.io/id/"
                 />
   </url><url>
+    <loc>https://wewnumam.github.io/id/tags/ai/</loc>
+    <lastmod>2025-08-19T17:18:18+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/ai/"
+                />
+  </url><url>
     <loc>https://wewnumam.github.io/id/articles/</loc>
-    <lastmod>2025-05-06T20:51:27+07:00</lastmod>
+    <lastmod>2025-08-19T17:18:18+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +39,45 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/articles/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/artificial-intelligence-definition-basis-approach-and-foundations/</loc>
+    <lastmod>2025-08-19T17:18:18+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/artificial-intelligence-definition-basis-approach-and-foundations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/artificial-intelligence-definition-basis-approach-and-foundations/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/principles-of-artificial-intelligence/</loc>
+    <lastmod>2025-08-19T17:18:18+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/principles-of-artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/principles-of-artificial-intelligence/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/</loc>
+    <lastmod>2025-08-19T17:18:18+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/enhancing-your-software-craftsmanship/</loc>
@@ -221,19 +273,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/articles/gametech-stmm-mmtc-graduate-profile/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/tags/</loc>
-    <lastmod>2023-12-11T03:11:29+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/game/</loc>
