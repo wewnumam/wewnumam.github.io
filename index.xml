@@ -11,8 +11,50 @@
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Aug 2025 17:18:14 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 17:52:34 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Agents Explained – How Autonomy, Collaboration, and Self-Improvement Drive Intelligent Systems</title>
+      <link>https://wewnumam.github.io/articles/ai-agents-explained/</link>
+      <pubDate>Thu, 21 Aug 2025 17:52:34 +0700</pubDate>
+      <guid>https://wewnumam.github.io/articles/ai-agents-explained/</guid>
+      <description>&lt;h2 id=&#34;1-what-are-ai-agents&#34;&gt;&lt;strong&gt;1. What Are AI Agents?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Definition: Software entities that perceive their environment and act autonomously.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Example: Customer support AI agent resolving queries.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Key Features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Autonomous&lt;/strong&gt; (minimal human input)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Goal-driven&lt;/strong&gt; (optimize defined objectives)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Perceptive&lt;/strong&gt; (gather info from sensors, inputs, APIs)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adaptive&lt;/strong&gt; (learn from changing environments)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaborative&lt;/strong&gt; (work with humans or other agents)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SEO Insert: &lt;em&gt;AI agents go beyond automation—their &lt;strong&gt;goal is autonomy and collaboration in multi-agent environments.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-how-ai-agents-work-the-core-mechanisms&#34;&gt;&lt;strong&gt;2. How AI Agents Work: The Core Mechanisms&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Persona&lt;/strong&gt; – role, goals, and communication style.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Memory&lt;/strong&gt; – short-term, long-term, episodic, consensus memory.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tools&lt;/strong&gt; – APIs, interfaces, and functions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Model&lt;/strong&gt; – LLM as the “brain.”&lt;/li&gt;
+&lt;li&gt;Transition: These mechanisms enable agents to &lt;strong&gt;self-improve their skills&lt;/strong&gt;, a key source of intelligence.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;3-the-goal-of-ai-agents-autonomy-and-collaboration-in-multi-agent-systems&#34;&gt;&lt;strong&gt;3. The Goal of AI Agents: Autonomy and Collaboration in Multi-Agent Systems&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Why autonomy matters: reduces human dependency, increases efficiency.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Artificial Intelligence: Definition, Basis, Approach, and Foundations</title>
       <link>https://wewnumam.github.io/articles/artificial-intelligence-definition-basis-approach-and-foundations/</link>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wewnumam.github.io/id/</loc>
-    <lastmod>2025-08-19T17:18:18+07:00</lastmod>
+    <lastmod>2025-08-21T17:52:34+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/ai/</loc>
-    <lastmod>2025-08-19T17:18:18+07:00</lastmod>
+    <lastmod>2025-08-21T17:52:34+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/</loc>
-    <lastmod>2025-08-19T17:18:18+07:00</lastmod>
+    <lastmod>2025-08-21T17:52:34+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +39,45 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/articles/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/intelligent-agent-enterprise/</loc>
+    <lastmod>2025-08-21T17:52:34+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/intelligent-agent-enterprise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/intelligent-agent-enterprise/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/ai-agents-explained/</loc>
+    <lastmod>2025-08-21T17:52:34+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/ai-agents-explained/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/ai-agents-explained/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/tags/</loc>
+    <lastmod>2025-08-21T17:52:34+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/tags/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/artificial-intelligence-definition-basis-approach-and-foundations/</loc>
@@ -65,19 +104,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/tags/principles-of-artificial-intelligence/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/tags/</loc>
-    <lastmod>2025-08-19T17:18:18+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/tags/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/articles/enhancing-your-software-craftsmanship/</loc>
