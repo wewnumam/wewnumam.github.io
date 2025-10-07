@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wewnumam.github.io/id/</loc>
-    <lastmod>2025-08-21T17:52:34+07:00</lastmod>
+    <lastmod>2025-10-07T12:28:24+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,22 @@
                 hreflang="id"
                 href="https://wewnumam.github.io/id/"
                 />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/</loc>
+    <lastmod>2025-10-07T12:28:24+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wewnumam.github.io/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://wewnumam.github.io/id/articles/"
+                />
+  </url><url>
+    <loc>https://wewnumam.github.io/id/articles/notes-pka/</loc>
+    <lastmod>2025-10-07T12:28:24+07:00</lastmod>
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/ai/</loc>
     <lastmod>2025-08-21T17:52:34+07:00</lastmod>
@@ -26,19 +42,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://wewnumam.github.io/id/tags/ai/"
-                />
-  </url><url>
-    <loc>https://wewnumam.github.io/id/articles/</loc>
-    <lastmod>2025-08-21T17:52:34+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wewnumam.github.io/articles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://wewnumam.github.io/id/articles/"
                 />
   </url><url>
     <loc>https://wewnumam.github.io/id/tags/intelligent-agent-enterprise/</loc>

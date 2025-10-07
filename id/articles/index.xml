@@ -9,10 +9,36 @@
       <url>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</url>
       <link>https://wewnumam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph</link>
     </image>
-    <generator>Hugo -- 0.148.2</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>id</language>
-    <lastBuildDate>Thu, 21 Aug 2025 17:52:34 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 12:28:24 +0700</lastBuildDate>
     <atom:link href="https://wewnumam.github.io/id/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes PKA</title>
+      <link>https://wewnumam.github.io/id/articles/notes-pka/</link>
+      <pubDate>Tue, 07 Oct 2025 12:28:24 +0700</pubDate>
+      <guid>https://wewnumam.github.io/id/articles/notes-pka/</guid>
+      <description>&lt;h2 id=&#34;pengenalan-kecerdasan-artifisial&#34;&gt;Pengenalan Kecerdasan Artifisial&lt;/h2&gt;
+&lt;h3 id=&#34;catatan-tentang-perspektif-dan-perkembangan-ka&#34;&gt;Catatan tentang Perspektif dan Perkembangan KA&lt;/h3&gt;
+&lt;h4 id=&#34;1-tujuan-yang-berbeda-dalam-ai&#34;&gt;&lt;strong&gt;1. Tujuan yang Berbeda dalam AI&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Orang memiliki tujuan yang berbeda dalam mempelajari AI:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Pemikiran vs. Perilaku&lt;/strong&gt;: Apakah fokusnya pada bagaimana mesin &lt;em&gt;berpikir&lt;/em&gt; atau bagaimana mesin &lt;em&gt;bertindak&lt;/em&gt;?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Meniru manusia vs. Hasil optimal&lt;/strong&gt;: Apakah AI harus meniru kecerdasan manusia atau mencapai hasil yang &lt;em&gt;paling optimal&lt;/em&gt;?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-model-standar-ai&#34;&gt;&lt;strong&gt;2. Model Standar AI&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;AI terutama berfokus pada &lt;strong&gt;tindakan rasional&lt;/strong&gt;, yaitu membangun agen yang bertindak secara optimal.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Penjelasan Agen AI – Bagaimana Otonomi, Kolaborasi, dan Pengembangan Diri Mendorong Sistem Cerdas</title>
       <link>https://wewnumam.github.io/id/articles/ai-agents-explained/</link>
